@@ -1,0 +1,60 @@
+
+
+.swiper_slide_Non_Fungible{
+    background-position: 70% 20%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 240px !important;
+    padding-bottom: 160px;
+    background-image: url('../../../../Assets/NOn_Fungible/nonban.jpg');
+    position: relative;
+    height: auto;
+}
+
+.sec_overlay_Non_Fungible{
+    background-color: rgba(0,0,0,60%);
+    position:absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+.tap_Non_Fungible{
+    background-color: #0f1932!important;
+
+}
+
+.mt-20  p{
+    color: #97afd5 !important;
+
+}
+
+.whatsaapherebg{
+    width: 100%;
+}
+
+
+@media screen and (max-width:768px) {
+
+    .imgNone_Fungible{
+        margin-top: 2rem !important;
+    }
+
+    .home_non_Text{
+        padding: 10px !important;
+    }
+
+   
+
+    
+    
+}
+
+@media screen and (max-width:480px) {
+
+    .line_non_fungible_center{
+        display: flex;
+        justify-content: center;
+    }
+}

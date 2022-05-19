@@ -1,0 +1,40 @@
+
+
+
+.swiper_slide_Million_Menoy{
+height: auto;
+padding-top: 154px;
+padding-bottom: 50px;
+/* height: 725px; */
+position: relative;
+background: linear-gradient(45deg, #000000cf, #00000000),url('../../../../Assets/MLM_Clone/Million_Menoy_Clone/mlm-banner-final-1.jpg');
+background-size: cover;
+background-position: center;
+
+}
+.swiper_slide_Million_Menoy:before {
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    /* left: 0; */
+    /* background: #000000ad; */
+    display: block;
+}
+
+
+.our-services789 {
+   
+}
+.OurServiceshere{
+    position: relative;
+    background: url('../../../../Assets/MLM_Clone/Million_Menoy_Clone/bg-mlm-2.jpg');
+    background-size: cover;
+    /* z-index: 99; */
+    background-attachment: fixed;
+}
+.border_radui_img{
+    border-radius: 20px;
+    margin-top: 4rem;
+}

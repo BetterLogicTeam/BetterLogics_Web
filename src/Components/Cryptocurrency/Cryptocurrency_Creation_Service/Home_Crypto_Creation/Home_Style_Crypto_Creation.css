@@ -1,0 +1,104 @@
+
+
+.swiper_slide_Creation{
+    /* height: auto; */
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+    position: relative;
+    background: url('../../../../Assets/Crpto/Crypto_Cration/banner-pg.jpg');
+    /* background-size: 100%; */
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    /* width: 100% !important; */
+}
+
+.row_Home{
+
+       margin-top: 10rem;
+
+}
+
+.text-left{
+    text-align: left !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* -------------------------------------------------------- */
+
+.creation-service .serviceBox1726 {
+    background: linear-gradient(to top,#ffffff,#ffffff,#ffffff);
+    text-align: center;
+    padding: 15px;
+    transition: all 0.3s;
+    margin-top: 40px;
+    min-height: 415px;
+    box-shadow: 0 16px 56px 0 rgb(0 0 0 / 10%);
+}
+
+.creation-service .serviceBox1726 .title1726 {
+    color: #ffffff;
+    background: #2353b8;
+    font-size: 18px;
+    font-weight: 600;
+    text-transform: initial;
+    padding: 20px 10px;
+    margin: 0;
+    border-radius: 5px;
+    box-shadow: 0 -2px 5px rgb(0 0 0 / 30%);
+}
+.creation-service .serviceBox1726 .service-icon1726 {
+    color: #ffffff;
+    background: #2453b6;
+    font-size: 45px;
+    line-height: 53px;
+    /* margin-bottom: 30px; */
+    width: 85px;
+    height: 70px;
+    margin: 0 auto 15px;
+    clip-path: polygon(0 0, 100% 0, 100% 70%, 50% 100%, 0 70%);
+}
+.creation-service .serviceBox1726 .service-icon1726 img {
+    width: 45px;
+}
+.creation-service .serviceBox1726 .description1726 {
+    color: #000 !important;
+    font-size: 15px;
+    /* letter-spacing: 0.5px; */
+    line-height: 25px;
+    /* text-shadow: 0 0 2px #333; */
+}
+
+/* ----------------------------------------------------- */
+
+
+
+.feat_box {
+    text-align: center;
+    background: #fff;
+    padding: 34px 15px 10px;
+    box-shadow: 0 0 10px #ddd;
+    border-radius: 3px;
+    margin-bottom: 30px;
+    min-height: 420px;
+}
+
+.feat_box_ic {
+    width: 80px;
+    height: 80px;
+    margin: 0 auto;
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 50%;
+    line-height: 80px;
+}

@@ -1,0 +1,47 @@
+
+
+.swiper_slide_Home_Crypto_Exchange{
+    background-image: url('../../../../Assets/Exchange/Crypto_Exchange/virtual-exchange.jpg');
+    border-bottom: 3px solid #2453b6;
+    background-position: 70% 13%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+   
+    padding-top: 240px !important;
+    padding-bottom: 160px;
+    position: relative;
+    height: auto;
+}
+
+.typ p {
+    display: flex;
+    align-items: center;
+    font-size: 19px;
+    text-transform: capitalize;
+}
+.typ span {
+    width: 45px;
+    height: 45px;
+    background: #fff;
+    display: block;
+    float: left;
+    text-align: center;
+    padding-top: 5px;
+    border-radius: 6px;
+    margin-right: 10px;
+}
+
+.mthere{
+    margin-top: -3rem !important;
+}
+
+.list_margin_herwe{
+    margin-left: 1rem;
+}
+
+.Img_Height_here{
+    height: 100%;
+    border-radius: 15px;
+}

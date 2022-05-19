@@ -1,0 +1,94 @@
+
+
+
+.swiper_slide_Home_MetaMask{
+    border-bottom: 3px solid #2453b6;
+    background-position: 70% 13%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+    background-image: url('../../../../Assets/Crpto/MetaMask_Clone/metamask-banner.png');
+    padding-top: 240px !important;
+    padding-bottom: 160px;
+    position: relative;
+    height: auto;
+}
+
+.HeightClassHere{
+    width: 95% !important;
+}
+
+
+@media screen and (max-width:480px) {
+    .HeightClassHere{
+        width: 100% !important;
+    }
+}
+
+.middle_banner_Metamask{
+    background-image: linear-gradient( 45deg , #0000008f, #000000a6),url('../../../../Assets/Crpto/MetaMask_Clone/middly-banner.jpg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50% 50%;
+    padding: 90px 0;
+}
+
+
+
+
+
+
+.benifit-hash {
+    position: relative;
+    background-attachment: fixed;
+    background: url('../../../../Assets/Crpto/MetaMask_Clone/benifit-img.jpg');
+}
+.benifit-hash:before {
+    content: "";
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    top: 0px;
+    background: rgb(238 238 238 / 90%);
+}
+.benifit-hash .serviceBox1517 {
+    text-align: center;
+    padding: 50px 10px 20px;
+    background: rgb(255 255 255 / 77%);
+    margin-bottom: 30px;
+    min-height: 410px;
+}
+.benifit-hash .serviceBox1517 .service-icon1517 {
+    color: #2453b6;
+    background: #fff;
+    font-size: 50px;
+    line-height: 80px;
+    width: 80px;
+    height: 80px;
+    margin: 0 auto 50px;
+    box-shadow: 0 0 10px rgb(0 0 0 / 30%), -14px -14px 0px #2453b6;
+    transform: rotate(
+45deg
+);
+    transition: all 0.3s;
+}
+.benifit-hash .serviceBox1517 span img {
+    transform: rotate(
+-45deg
+);
+    width: 55px;
+}
+.benifit-hash .serviceBox1517 .title {
+    color: #2453b6;
+    font-size: 20px;
+    margin: 0 0 10px;
+}
+ .serviceBox1517 .description {
+    color: #000 !important;
+    font-size: 15px;
+    line-height: 25px;
+    margin: 0 0 15px;
+    position: relative;
+}

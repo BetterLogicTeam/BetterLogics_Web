@@ -1,0 +1,100 @@
+
+
+
+.swiper_slide_Crpto{
+    background-image: url('../../../../Assets/Crpto/Crpto_Development/virtual-currency.jpg') !important;
+    height: auto;
+    padding-top: 220px !important;
+    padding-bottom: 150px;
+    position: relative;
+    background-size: cover;
+}
+.text-center212{
+    width: 100% !important;
+    text-align: center;
+}
+.img_mg_top{
+    margin-top: 1rem !important;
+    border-radius: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+.section-block-grey .feature-flex-square456 {
+    margin: 0px;
+}
+
+.feature-flex-square456 {
+    position: relative;
+    border-radius: 5px;
+    /* margin: 30px 0; */
+    /* -webkit-transition-duration: .3s; */
+    transition-duration: .3s;
+}
+.feature-flex-square-icon456 {
+    float: left;
+    width: 25%;
+    margin-top: 5px;
+    -webkit-transition-duration: .3s;
+    transition-duration: .3s;
+}
+.feature-flex-square-icon456 i {
+    color: #2453b6;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 55px;
+    /* -webkit-transition-duration: .3s; */
+    transition-duration: .3s;
+}
+
+.feature-flex-square-content {
+    float: left;
+    width: 75%;
+    padding-left: 10px;
+}
+.imgCheckgere img {
+    width: 40px !important;
+}
+.feature-flex-square-content h4, .feature-flex-square-content h4 a {
+    color: #fff;
+    font-size: 19px;
+    font-weight: 500;
+    text-align: left
+
+}
+    .feature-flex-square-content p {
+    color: #97afd5 !important;
+        
+        font-size: 15px;
+        font-weight: 400;
+        margin-top: 10px;
+        margin-bottom: 15px;
+        text-align: left;
+    }
+
+
+   
+    img {
+        max-width: 100%;
+        height: auto;
+        /* -webkit-transition-duration: .3s; */
+        transition-duration: .3s;
+    }
+
+
+    .port-txt{
+    color: #97afd5 !important;
+
+
+    }
+
+
+    

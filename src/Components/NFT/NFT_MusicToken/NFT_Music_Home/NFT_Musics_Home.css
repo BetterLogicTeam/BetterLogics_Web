@@ -1,0 +1,46 @@
+
+
+.NFT_MusicHome {
+    background-image: url('../../../../Assets/Marketplace_NFT/banner.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 70vh !important;
+    padding-top: 100px !important;
+    padding-bottom: 120px;
+    position: relative;
+    background-size: cover;
+    
+}
+
+.NFT_Music_Overlay {
+    background-color: rgb(0 0 0 / 69%);
+}
+
+.NFT_Music_Overlay {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    /* background-color: rgba(0,0,0,.8); */
+}
+
+.NFT_Musichere p{
+    color: #97afd5;
+    font-size: 14px;
+
+}
+
+.mainheadingdiv_Musichere{
+    margin-top: 0rem;
+}
+
+@media screen and (max-width:768px){
+.NFT_MusicHome{
+    height: auto !important;
+    padding-top: 20px !important;
+
+}
+    
+    
+}

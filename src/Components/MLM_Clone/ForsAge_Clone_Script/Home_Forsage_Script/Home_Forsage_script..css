@@ -1,0 +1,45 @@
+
+
+
+.swiper_slide_Forsage{
+    height: auto;
+    padding-top: 220px !important;
+    padding-bottom: 50px;
+    background-position: center top;
+    background-image: url('../../../../Assets/MLM_Clone/Forsage_Script/banner.jpg');
+    position: relative;
+    
+    background-position: center;
+    background-size: cover;
+}
+.sec-overlay454{
+    background-color: rgba(0, 0, 0, 0.8);
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+.bgcolorForm{
+    background: #ffffff38;
+    padding: 20px 15px;
+    border-radius: 10px;
+}
+
+.text-left7412 p{
+    text-align: left !important;
+}
+
+.img_Here_Forsage{
+    margin-top: 0rem !important;
+}
+
+
+
+@media screen and (max-width:768px) {
+    
+    .imgSeconddivhere{
+        margin-top: 10rem !important;
+    }
+}

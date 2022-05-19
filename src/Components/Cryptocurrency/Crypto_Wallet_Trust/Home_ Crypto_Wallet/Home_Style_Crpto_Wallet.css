@@ -1,0 +1,144 @@
+
+
+.swiper_slide_Trust_Crpto{
+    border-bottom: 3px solid #2453b6;
+    /* background-position: 70% 13%; */
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-top: 200px !important;
+    padding-bottom: 120px;
+    height: auto;
+    position: relative;
+}
+.sec_overlay213{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgb(225 249 252);
+}
+
+.Heaingher_Crpto {
+    color: #000 !important;
+}
+.text_dark p{
+    color: #000 !important;
+    
+
+}
+
+
+.sub_hed21{
+    color: #f42f54;
+}
+
+
+
+
+
+
+
+    
+.blockchainmarket213 .feature-box21 {
+    background: #ffffff;
+    box-shadow: none !important;
+    min-height: 337px;
+    padding: 10px;
+    border-radius: 0px;
+    /* padding-top: 40px; */
+    margin-top: 35px;
+    transition: 0.5s all ease-in-out;
+}
+.blockchainmarket213 .feature-icon {
+    width: 80px;
+    height: 80px;
+    margin: 0px auto;
+    /* position: absolute; */
+    position: relative;
+    margin-top: -40px;
+    background: #f2f4ec;
+    padding: 8px;
+}
+.blockchainmarket213 .feature-box21 {
+    padding: 20px;
+    border-radius: 5px;
+    margin: 20px 0;
+    -webkit-box-shadow: 2px 2px 20px 0 rgb(50 50 50 / 21%);
+    -moz-box-shadow: 2px 2px 20px 0 rgba(50,50,50,.21);
+    box-shadow: 2px 2px 20px 0 rgb(50 50 50 / 21%);
+    transition-duration: .3s;
+}
+.blockchainmarket213 .feature-icon {
+    border-radius: 5px 5px 0px 0px;
+    margin-bottom: 15px;
+    margin-top: 10px;
+}
+.blockchainmarket213 .feature-box21 strong {
+    font-weight: 500;
+    }
+.blockchainmarket213 .feature-box21 strong {
+    color: #2453b6;
+    font-size: 20px;
+    margin: 15px 0;
+    margin-bottom: 7px;
+    font-size: 18px;
+}
+.blockchainmarket213 .feature-box21 p {
+    color: #666;
+    font-size: 15px;
+    font-weight: 400;
+    margin-top: 6px;
+}
+.nftmar {
+    background-color: #f4f4f4;
+}
+.blockchainmarket213 .feature-box21:hover {
+    background-image: linear-gradient(to bottom right,#2453b6,#2453b6);
+    color: #fff !important;
+ transition: 0.5s all ease-in-out;
+
+}
+.card {
+    border-radius: 8px;
+    background-color: #fff;
+    padding: 32px;
+    /* margin-top: 24px; */
+    /* box-shadow: 0 8px 60px 0 rgb(103 151 255 / 11%), 0 12px 90px 0 rgb(103 151 255 / 11%); */
+    position: relative;
+    display: inline-block;
+    box-shadow: 0 2px 2px rgb(204 197 185 / 0%);
+}
+.blockchainmarket213 .feature-box21:hover h4, .blockchainmarket213 .feature-box21:hover p, .blockchainmarket213 .feature-box21:hover strong {
+    color: #fff;
+}
+
+
+
+
+
+
+/* ---------------------------------------------------- */
+
+
+    
+.card_width545:hover .icon-container {
+    background: #2453b6;
+    transition: .2s all ease-in-out;
+}
+.card_width545:hover img {
+    filter: brightness(0) invert(1);
+    transition: .2s all ease-in-out;
+}
+.para{
+    width: 80%;
+    margin: 0 auto;
+}
+
+.card_width545{
+    width: 95% !important;
+}
+.ColTher4545{
+    margin-top: 5rem !important;
+}

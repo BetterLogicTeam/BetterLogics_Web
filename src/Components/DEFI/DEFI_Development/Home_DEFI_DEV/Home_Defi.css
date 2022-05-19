@@ -1,0 +1,48 @@
+
+
+
+.Defi_Develomenn{
+background-image: url('../../../../Assets//DEFI/DEFI_Develoment/banner-bg2.jpg');
+background-position: 70% 20%;
+background-repeat: no-repeat;
+background-size: cover;
+padding-top: 240px !important;
+padding-bottom: 75px;
+
+position: relative;
+height: auto;
+
+}
+.sec_overlay12{
+    background-color: rgba(0, 0, 0, 0.8);
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+.text-left2 p{
+    text-align: left !important;
+}
+
+.Defi_img_hereSecond{
+    margin-top: 5rem;
+    height: 400px;
+    width: 100%;
+}
+
+
+
+@media screen and (max-width:768px) {
+    .Defi_img_hereSecond{
+        margin-top: auto;
+        width: 100% !important;
+    }
+
+    .section-heading h2 {
+        font-size: 25px !important;
+    }
+
+}
+

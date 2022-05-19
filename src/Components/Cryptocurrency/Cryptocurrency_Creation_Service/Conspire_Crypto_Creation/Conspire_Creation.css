@@ -1,0 +1,65 @@
+
+
+.positive-influence .serviceBox {
+    background: #fff;
+    /* font-family: 'Montserrat', sans-serif; */
+    text-align: center;
+    padding: 0px 25px 40px;
+    margin: 20px 0 0;
+    border-radius: 20px;
+    position: relative;
+    transition: all 0.3s ease;
+    box-shadow: 0 5px 30px rgb(0 0 0 / 10%);
+    min-height: 400px;
+}
+
+.positive-influence .serviceBox:before, .positive-influence .serviceBox:after {
+    content: "";
+    background: linear-gradient(to top,rgb(31 77 170 / 34%),rgb(35 82 179 / 56%));
+    width: 3px;
+    border-radius: 0 100px 100px 0;
+    position: absolute;
+    top: 110px;
+    bottom: 35px;
+    left: 0;
+}
+.positive-influence .serviceBox .service-icon {
+    color: #fff;
+    background: linear-gradient(-45deg,#2453b6 49%,#204faf 50%);
+    font-size: 45px;
+    line-height: 70px;
+    width: 120px;
+    height: 120px;
+    margin: 0 auto;
+    border-radius: 100px;
+    border: 15px solid #f3f3f3;
+    /* box-shadow: 0 0 10px rgb(0 0 0 / 20%); */
+    transform: translateY(-20px);
+    transition: all 0.3s ease;
+    position: relative;
+    top: -40px;
+}
+.section-heading span {
+    position: relative;
+    font-size: 15px;
+    font-weight: 500;
+    /* color: #2453b6; */
+    line-height: 200%;
+    margin-bottom: 10px;
+}
+.service-icon span img {
+    width: 50px;
+}
+.positive-influence .serviceBox .title {
+    /* color: #1f4daa; */
+    font-size: 17px;
+    font-weight: 600;
+    /* text-transform: uppercase; */
+    margin: 0 0 10px;
+}
+.positive-influence .serviceBox .description {
+    color: #000 !important;
+    font-size: 14px;
+    line-height: 24px;
+    margin: 0;
+}

@@ -1,0 +1,120 @@
+
+
+
+.label_here{
+    color: #f4f4f4;
+    font-weight: 700;
+    font-size: 18px;
+}
+.strick{
+    color: red;
+}
+.labhhgg{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start !important;
+}
+
+ input:out-of-range{
+     background-color: rgba(237, 14, 14, 0.25) !important ;
+     border: 2px solid red;
+ }
+ input:in-range{
+     background-color: rgba(0, 255, 0, 0.25);
+ }
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}
+
+.section-block-grey {
+    padding: 90px 0;
+    background-color: #f4f4f4;
+}
+
+.section-heading {
+    margin-bottom: 10px;
+}
+.center-holder {
+    text-align: center;
+}
+.contact-form {
+    max-width: 800px;
+    padding: 30px;
+    margin: 0 auto;
+}
+
+.contact-form input {
+    border-radius: 5px;
+    border: 1px solid #f6f7f8;
+    margin: 10px 0;
+    color: #fff;
+    /* -webkit-transition-duration: .4s; */
+    transition-duration: .4s;
+}
+
+.contact-form input, .contact-form textarea {
+    font-weight: 500!important;
+    font-size: 13px;
+    background: transparent;
+    color: #fff!important;
+    outline: 0;
+    padding: 14px;
+    width: 100%;
+}
+input, textarea {
+    outline: 0;
+    max-width: 100%;
+}
+
+.contact-form textarea {
+    border-radius: 5px;
+    border: 1px solid #f6f7f8;
+    margin: 10px 0 5px;
+    min-height: 150px;
+    overflow: hidden;
+    /* -webkit-transition-duration: .4s; */
+    transition-duration: .4s;
+}
+
+.contact-form button {
+    display: inline-block;
+    background: #f42f54;
+    color: #fff;
+    font-size: 14px;
+    width: 100%;
+    font-weight: 500;
+    border-radius: 10px;
+    padding: 15px 30px;
+    transition: all .4s ease;
+    margin-top: 15px;
+    outline: 0 none;
+    border: none;
+}
+.contact-form button:hover {
+  
+    background: #fff;
+    color: #f42f54;
+    font-weight: 600;
+    font-size: large;
+    
+}
+
+
+@media (min-width:280px) and (max-width:480px) {
+
+    .schedule_call{
+        /* margin-left: -1rem; */
+        /* width: 80% !important; */
+    }
+    .calendly-inline-widget{
+        width: 100% !important;
+    }
+}

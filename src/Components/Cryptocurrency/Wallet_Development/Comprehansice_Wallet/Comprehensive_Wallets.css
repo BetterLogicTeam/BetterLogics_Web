@@ -1,0 +1,105 @@
+
+
+
+.blkchn_devpmt_services {
+    border-radius: 1px;
+    background-color: #fcfafa !important;
+    padding: 20px;
+    height: 315px;
+    margin-bottom: 60px;
+    border: 1px solid rgba(36, 83, 182, 0.58);
+    text-align: center;
+}
+.feature-img.testing_img {
+    /* text-align: left !important; */
+    position: relative;
+    margin-top: -60px;
+    padding-bottom: 10px;
+}
+.blkchn_devpmt_services .testing_img img {
+    position: relative !important;
+    width: 80px;
+    background: #fcfafa;
+    padding: 5px;
+    background-image: linear-gradient(#fff, #fcfafa);
+    background-image: -webkit-linear-gradient(#fff, #fcfafa);
+}
+.feature-content_1 h2 {
+    font-size: 18px;
+    color: #0f0f0f;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: 23px;
+    margin: 10px 0;
+    text-transform: capitalize;
+}
+
+
+
+
+/* ----------------------------------------------------------------------- */
+
+.work-sec21 {
+    background: #000;
+}
+.work-sec21 ul.expert-whitelabel-list {
+    padding: 0px;
+    margin-top: 40px;
+    text-align: center;
+}
+.work-sec21 ul.expert-whitelabel-list li {
+    width: 30%;
+    border: none;
+    margin: 8px;
+    padding: 8px;
+    background: #fff;
+    border-bottom: 3px solid #2453b6;
+    border-radius: 20px;
+    padding: 40px 10px;
+    min-height: 170px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.work-sec21 ul.expert-whitelabel-list li {
+    display: inline-block;
+    /* width: 24%; */
+    /* padding: 8px 15px; */
+    /* border-right: 1px solid; */
+    box-shadow: 0px 3px 2px rgb(51 51 51 / 20%);
+    vertical-align: top;
+    /* min-height: 170px; */
+    /* text-align: center; */
+    /* margin-bottom: 30px; */
+}
+.expert-whitelabel-list li .icon211 {
+    background: #fff;
+    width: 90px;
+    height: 90px;
+    margin: -70px auto 20px auto;
+    border-radius: 50%;
+    padding: 10px;
+    border: 3px solid;
+}
+.expert-whitelabel-list li .icon211 img {
+    width: 100%;
+    padding: 5px;
+}
+.work-sec21 .expert-whitelabel-list li h4 {
+    font-weight: 500;
+        font-family: 'Fira Sans',sans-serif;
+    color: #111;
+    line-height: 1.3;
+    margin: 0;
+    font-size: 18px !important;
+}
+.work-sec21 .expert-whitelabel-list li .icon211 {
+    background: #2453b6;
+    border-radius: 6px;
+    border: 5px solid transparent;
+}
+
+@media only screen and (max-width: 767px){
+.work-sec21 ul.expert-whitelabel-list li {
+    width: 99% !important;
+}
+}

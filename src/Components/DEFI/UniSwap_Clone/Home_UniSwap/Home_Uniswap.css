@@ -1,0 +1,41 @@
+
+
+.swiper_slide_UniSwap{
+    height: auto;
+    padding-top: 250px !important;
+    padding-bottom: 235px;
+    position: relative;
+    background-image: url('../../../../Assets/DEFI/UniSwap/banner.png');
+    background-repeat: no-repeat;
+   
+background-size: cover;
+position: relative;
+}
+
+
+.num-icon012 {
+    border-radius: 50px;
+    background: #f2f2f2;
+    width: 100px;
+    height: 100px;
+    margin: 0 auto!important;
+    padding: 20px;
+}
+.number-box012 img {
+    width: 70px;
+}
+
+.number-box012.sto-numbr {
+    border: 1px solid #eee;
+    margin-top: 30px;
+    min-height: 230px!important;
+    box-shadow: 0 0 10px 0 #eee;
+    transition: .5s;
+    background: #f2f2f2;
+
+}
+
+.number-box012.sto-numbr:hover{
+    box-shadow: 0 0 10px 5px #eee;
+
+}

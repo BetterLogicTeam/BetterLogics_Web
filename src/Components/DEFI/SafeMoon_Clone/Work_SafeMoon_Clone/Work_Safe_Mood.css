@@ -1,0 +1,245 @@
+
+
+
+
+        
+.our-services ul.expert-whitelabel-list li {
+    width: 30%;
+    border: none;
+    margin: 25px 8px;
+    padding: 8px;
+    background: #fff;
+    border-bottom: 3px solid #2453b6;
+    border-radius: 20px;
+    padding: 40px 10px;
+    vertical-align: top;
+    min-height: 337px;
+}
+ul.expert-whitelabel-list li {
+    display: inline-block;
+    width: 24%;
+    padding: 8px 15px;
+    border-right: 1px solid;
+    box-shadow: 0px 3px 2px rgb(51 51 51 / 20%);
+}
+.icon654 img {
+    margin: auto;
+    color: white;
+    animation: zoominoutsinglefeatured 5s infinite;
+}
+.expert-whitelabel-list li .icon654 img {
+    width: 80%;
+    padding: 5px;
+}
+ul.expert-whitelabel-list {
+    padding: 0px;
+    margin-top: 40px;
+}
+.expert-whitelabel-list li .icon654 {
+    background: #fff;
+    width: 90px;
+    height: 90px;
+    margin: -70px auto 20px auto;
+    border-radius: 50%;
+    padding: 10px;
+    border: 3px dotted;
+}
+
+.our-services:before {
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+   background: #000000c9;
+    display: block;
+    z-index: -1;
+}
+.our-services ul.expert-whitelabel-list li p {
+    font-size: 18px;
+}
+
+.our-services {
+    position: relative;
+    background: url('../../../../Assets//DEFI/SafeMoon/features\ \(1\).png');
+    background-size: cover;
+    z-index: 99;
+    background-attachment: fixed;
+}
+
+p.salient {
+    color: white;
+}
+
+
+
+@media screen and (max-width:768px) {
+    .our-services ul.expert-whitelabel-list li {
+        width: 99%;
+    }
+    .our-services ul.expert-whitelabel-list li:nth-child(1), .our-services ul.expert-whitelabel-list li:nth-child(2) {
+        width: 100% !important;
+    }
+}
+    
+
+
+/* ---------------------------------------------------/ */
+
+
+        
+.contr_sec {
+    position: relative;
+    z-index: 1;
+    padding: 40px 0 20px;
+    background: #eee;
+}
+.ben_w span {
+    background: #2453b6;
+    color: #fff;
+    width: 30px;
+    height: 30px;
+   
+    display: inline-block;
+    border-radius: 50%;
+    line-height: 30px;
+    text-align: center;
+    margin-right: 5px;
+}
+.ben_w h4 {
+    margin-bottom: 10px;
+
+}
+.ben_w h5{
+    margin-bottom: 25px;
+    color: #97afd5 !important;
+
+}
+
+@media only screen and (max-width: 1600px) and (min-width: 1200px)  {
+    .ben_w span {
+    background: #2453b6;
+    color: #fff;
+    width: 30px;
+    height: 30px;
+    margin-left: -40px;
+    display: inline-block;
+    border-radius: 50%;
+    line-height: 30px;
+    text-align: center;
+    margin-right: 5px;
+}
+
+.col-xs-12.col-sm-12.col-md-6.createdefi {
+    padding-left: 40px;
+}
+
+    }
+
+@media only screen and (max-width: 1199px) and (min-width: 992px)  {
+    .ben_w span {
+    background: #2453b6;
+    color: #fff;
+    width: 30px;
+    height: 30px;
+    margin-left: -40px;
+    display: inline-block;
+    border-radius: 50%;
+    line-height: 30px;
+    text-align: center;
+    margin-right: 5px;
+}
+
+.col-xs-12.col-sm-12.col-md-6.createdefi {
+    padding-left: 40px;
+}
+.col-xs-12.col-sm-12.col-md-6.deficreate {
+    padding-left: 75px;
+}
+
+    }
+    @media only screen and (max-width: 991px) and (min-width: 768px)  {
+.ben_w span {
+    background: #2453b6;
+    color: #fff;
+    width: 30px;
+    margin-left: -40px;
+    height: 30px;
+    display: inline-block;
+    border-radius: 50%;
+    line-height: 30px;
+    text-align: center !important;
+    margin-right: 5px;
+}
+.col-xs-12.col-sm-12.col-md-6.deficreate {
+    padding-left: 45px;
+}
+.col-xs-12.col-sm-12.col-md-6.createdefi {
+    padding-left: 45px;
+}
+
+    }
+    @media only screen and (max-width: 767px) and (min-width: 500px)  {
+.ben_w span {
+      background: #2453b6;
+    color: #fff;
+    width: 30px;
+    margin-left: -40px;
+    height: 30px;
+    display: inline-block;
+    border-radius: 50%;
+    line-height: 30px;
+    text-align: center;
+    margin-right: 5px;
+}
+.col-xs-12.col-sm-12.col-md-6.deficreate {
+    padding-left: 45px;
+}
+.col-xs-12.col-sm-12.col-md-6.createdefi {
+     padding-left: 45px;
+  
+}
+
+    }
+    @media only screen and (max-width: 499px) and (min-width: 320px)  {
+.ben_w span {
+      background: #2453b6;
+    color: #fff;
+    width: 30px;
+    margin-left: -40px;
+    height: 30px;
+    display: inline-block;
+    border-radius: 50%;
+    line-height: 30px;
+    text-align: center;
+    margin-right: 5px;
+}
+.ben_w h5{
+    text-align: left;
+}
+.col-xs-12.col-sm-12.col-md-6.deficreate {
+    padding-left: 45px;
+}
+.col-xs-12.col-sm-12.col-md-6.createdefi {
+     padding-left: 45px;
+  
+}
+
+    }
+
+    
+
+
+
+
+
+
+
+
+
+    .bg_safe{
+        padding: 130px 0px;
+        background-repeat: no-repeat;
+        background-image: url('../../../../Assets/DEFI/SafeMoon/innov.png');
+    }

@@ -1,0 +1,47 @@
+
+
+
+.swiper_slideArthere{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+    padding-top: 240px !important;
+    padding-bottom: 120px;
+    height: auto;
+    position: relative;
+    background-image: url('../../../../Assets/NFT_Art/swiper_slideArthere');
+  
+}
+
+
+
+.colhereche{
+    color: #fff;
+    font-size: 28px !important;
+}
+
+.text-content12 p{
+    color: #97afd5;
+    text-align: left;
+
+}
+
+.shadow-primary2 {
+
+    box-shadow: 0 20px 40px rgba(248, 242, 242, 0.2);
+    margin-top: 5rem;
+}
+.mt-50 {
+    margin-top: 100px;
+}
+
+@media screen and (max-width:480px) {
+
+    .text-content12 p{
+        color: #97afd5;
+        text-align: center;
+    
+    }
+    
+}

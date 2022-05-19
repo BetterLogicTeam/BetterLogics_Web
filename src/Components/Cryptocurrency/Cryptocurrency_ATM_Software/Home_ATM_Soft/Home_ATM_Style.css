@@ -1,0 +1,17 @@
+
+
+
+.swiper_slide_ATM_Soft{
+    background-image: url('../../../../Assets/Crpto/Crypto_ATM_Software/mlm-bg.jpg');
+    height: auto;
+    padding-top: 300px;
+    padding-bottom: 120px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.btn_Home_ATM{
+    display: flex;
+    justify-content: center;
+}

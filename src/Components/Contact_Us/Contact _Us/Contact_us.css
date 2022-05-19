@@ -1,0 +1,118 @@
+
+
+.Contac_Us121{
+    /* padding: 170px  55px; */
+    background-color: #eee;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    color: #eee !important;
+    border-bottom: 1px solid #f5f5f5;
+    background-image: url('../../../Assets/Contact_Us/bg_contact.png');
+    position: relative;
+
+    height: 400px;
+  
+}
+.inner_contachhh:before {
+    position: absolute;
+    content: "";
+    background: rgba(0, 0, 0, 0.3);
+    z-index: 10;
+    left: 0;
+    top: 0;
+    right: 0;
+    
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+    
+}
+.divher_tectx{
+    padding: 170px  55px;
+    position: relative;
+
+
+}
+
+.phone_number{
+    text-decoration: underline;
+    color: #97afd5 !important;
+
+    font-size: 15px;
+    font-weight: 400;
+
+}
+
+.Contac_Us121 h1 {
+    font-size: 40px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    line-height: 1;
+    color: #fff;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.Contac_Us121 ul li {
+    display: inline-block;
+}
+.Contac_Us121 ul li a {
+    color: #fff;
+    font-size: 14px;
+    font-weight: 500;
+}
+.Contac_Us121 ul li:after {
+    content: ' \f105';
+    color: #fff;
+    font-family: FontAwesome;
+    padding: 0 10px;
+}
+
+.contact-info-box {
+    margin-bottom: 50px;
+}
+.contact-info-box {
+    padding: 0 15px;
+}
+.contact-info-section {
+    border-bottom: 1px solid #ececec;   
+    /* padding: 25px 0; */
+    margin-bottom: 0;
+ 
+}
+.center-holder {
+    text-align: center;
+    width: 100%;
+}
+.contact-info-section i {
+    width: 60px;
+    height: 60px;
+    padding-top: 17px;
+    border-radius: 50%;
+    background: #2453b6;
+    color: #fff;
+    font-size: 25px;
+    margin-top: 5px;
+}
+.contact-info-section h4 {
+
+    color: #fff;
+}
+.contact-info-section p{
+    color: #97afd5 !important;
+
+    font-size: 15px;
+    font-weight: 400;
+}
+.contact-info-section p a {
+    color: #97afd5 !important;
+
+    font-size: 15px;
+    font-weight: 400;
+  
+}
+
+.contact-info-section p a:hover{
+    font-size: 20px;
+}
+ 

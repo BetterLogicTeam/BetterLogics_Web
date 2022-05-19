@@ -1,0 +1,197 @@
+
+
+.features-box {
+    margin: 15px 0;
+    padding: 25px 0;
+    background-color: #fff;
+    box-shadow: 5px 6px 20px rgb(0 0 0 / 10%);
+    text-align: center;
+    border-radius: 10px 10px;
+    transition: all 0.5s;
+}
+
+.features-box img {
+    height: 100%;
+    max-height: 50px;
+}
+
+.features-box h4 {
+    font-size: 18px;
+    margin-top: 10px;
+    font-weight: 400;
+    margin-bottom: 10px;
+}
+
+.features-box:hover {
+    /* box-shadow: 5px 6px 20px rgb(0 0 0 / 20%);
+    transform: scale(1.025);
+    transition: all 0.5s; */
+}
+
+.solid {
+    background-color: #f4f4f4;
+    border-top: 1px solid #f4f4f4;
+    padding: 90px 0;
+}
+
+.content1 {
+    position: relative;
+    width: 100%;
+    max-width: 400px;
+    margin: auto;
+    overflow: hidden;
+    margin-bottom: 30px;
+}
+
+.content1 .content1-overlay {
+    background: rgba(0, 0, 0, 0.7);
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    opacity: 0;
+    -webkit-transition: all 0.4s ease-in-out 0s;
+    -moz-transition: all 0.4s ease-in-out 0s;
+    transition: all 0.4s ease-in-out 0s;
+}
+
+.content1:hover .content1-overlay {
+    opacity: 1;
+}
+
+.content1-image {
+    width: 100%;
+}
+
+.content1-details {
+    position: absolute;
+    text-align: center;
+    padding-left: 1em;
+    padding-right: 1em;
+    width: 100%;
+    top: 50%;
+    left: 50%;
+    opacity: 0;
+    -webkit-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    -webkit-transition: all 0.3s ease-in-out 0s;
+    -moz-transition: all 0.3s ease-in-out 0s;
+    transition: all 0.3s ease-in-out 0s;
+}
+
+.content1:hover .content1-details {
+    top: 50%;
+    left: 50%;
+    opacity: 1;
+}
+
+.content1-details h3 {
+    color: #fff;
+    font-weight: 500;
+    margin-bottom: 0.5em;
+    text-transform: uppercase;
+}
+
+.content1-details p {
+    color: #fff;
+    font-size: 0.8em;
+}
+
+/* .fadeIn-bottom {
+    top: 80%;
+}
+
+.fadeIn-top {
+    top: 20%;
+} */
+
+/* .fadeIn-left {
+    left: 20%;
+} */
+
+/* .fadeIn-right {
+    left: 80%;
+} */
+/* .expertise{
+    margin-left: 14px;
+    margin-top: 10px;
+} */
+
+
+
+
+
+/* {------------------------------Our Expertise In NFT Marketplace Development------------------------} */
+
+
+
+.section-heading p {
+    font-size: 15px;
+    font-weight: 400;
+    color: #97afd5;
+
+    line-height: 160%;
+    padding-top: 15px;
+    margin-bottom: 0;
+}
+
+.list {
+    margin-top: 0rem;
+    margin-bottom: 0rem!important;
+    font-size: 17px;
+    line-height: 35px;
+    text-indent: -17px;
+    list-style: none;
+    color: #97afd5 !important;
+
+    margin-left: 30px;
+    text-align: left !important;
+}
+.list li {
+    word-break: break-word;
+    font-size: 14px;
+    color: #97afd5 !important;
+
+}
+.list li:before {
+    content: "\f0da ";
+    font-family: FontAwesome;
+    color: #f42f54;
+    margin-right: 10px;
+    font-size: 18px;
+}
+
+.list li  a{
+    color: #f42f54;
+}
+
+.expertise {
+    margin-left: 14px;
+    margin-top: 10px;
+    color: #97afd5 !important;
+    text-align: left !important;
+
+}
+.text_p_change{
+    color: #97afd5 !important;
+
+}
+
+.whatsaapherebg{
+    background: none !important;
+    border: none !important;
+
+}
+
+ @media screen and (max-width:768px) {
+
+    .btnwhatsandconntechhere{
+        display: flex;
+        flex-direction: column;
+    }
+     
+ }

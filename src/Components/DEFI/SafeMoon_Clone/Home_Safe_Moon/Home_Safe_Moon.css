@@ -1,0 +1,17 @@
+
+
+.swiper_slide_SafeMoon{
+    height: auto;
+    padding-top: 250px !important;
+    padding-bottom: 250px;
+    position: relative;
+    background-image: url('../../../../Assets/DEFI/SafeMoon/safebanner.png');
+    background-repeat: no-repeat;
+   
+background-size: cover;
+position: relative;
+}   
+
+.Safe_img_mood{
+    margin-top: 4rem !important;
+}

@@ -1,0 +1,164 @@
+
+
+.section-block-grey {
+    padding: 90px 0;
+    background-color: #f4f4f4;
+}
+.section-heading {
+    margin-bottom: 10px;
+}
+
+.new_class_here{
+    height: 400px;
+}
+
+.center-holder {
+    text-align: center;
+}
+
+.mt-30 {
+    margin-top: 30px;
+}
+
+.number-box {
+    text-align: center;
+    padding: 20px;
+    margin: 15px 0;
+    background: #fff;
+    border-radius: 3px;
+    box-shadow: 0 0 10px #d1cbcb;
+    border: 4px solid #fff;
+    padding-bottom: 0;
+    min-height: 579px;
+}
+.number-box img {
+    width: 300px;
+}
+.number-box-line {
+    border-bottom: 1px dashed #dedede;
+    width: 100%;
+    margin: 20px auto;
+}
+.number-box-line:before {
+    display: block;
+    margin: auto auto -7.5px;
+    height: 15px;
+    width: 15px;
+    border: 2px solid #2453b6 !important;
+    background: #fff;
+    border-radius: 50%;
+}
+.number-box h4 {
+    font-size: 18px;
+}
+.number-box h4 {
+    color: #111;
+    /* font-size: 20px; */
+    font-weight: 400;
+}
+
+.section-block-grey p {
+    color: #000;
+}
+.number-box p {
+   
+    font-size: 14px;
+    font-weight: 400;
+    margin-top: 15px;
+    line-height: 1.5;
+}
+.services-txt {
+    min-height: 70px;
+}
+.number-box p a {
+    color: #111;
+   
+}
+.counter-box p:before, .number-box-line, .number-box-line:before {
+    content: '';
+}
+.headerimgher{
+    width: 100% !important;
+}
+
+
+@media (min-width:280px) and (max-width:600px) {
+    .new_class_here{
+        height: auto;
+    }
+    
+   
+    
+}
+@media (min-width:480px) and (max-width: 768px){
+.col-sm-6 {
+    width: 50%;
+}
+}
+@media (min-width: 768px){
+.col-sm-1, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9 {
+    float: left;
+}
+}
+
+
+
+
+ /* {------------------------------ Our Innovation NFT ---------------------------------------} */
+
+
+@media (min-width: 992px){
+.inncol {
+    width: 50%;
+}
+}
+.serviceBox {
+    color: #fff;
+    text-align: center;
+    padding: 25px 5px 30px 0;
+    box-shadow: 15px 0 15px -15px rgb(0 0 0 / 50%) inset;
+    position: relative;
+    /* height: 300px; */
+}
+
+.serviceBox:after {
+    content: "";
+    width: 20px;
+    height: 20px;
+    box-shadow: 20px 0 20px -20px rgb(0 0 0 / 50%) inset;
+    position: absolute;
+    bottom: 10px;
+    left: 0;
+    clip-path: polygon(0 0, 0% 100%, 100% 0);
+}
+.serviceBox .service-content {
+    padding: 15px;
+    border-radius: 0px 10px 10px 0px;
+    box-shadow: 20px 0 20px -20px rgb(0 0 0 / 50%) inset;
+    background: #f2f2f2;
+    height: 400px;
+}
+.serviceBox .title {
+    font-size: 22px;
+    font-weight: 600;
+    text-transform: uppercase;
+    padding: 15px 10px;
+    border-radius: 0 30px 30px 0;
+    color: #000000;
+}
+.serviceBox .description2 {
+    font-size: 15px;
+    line-height: 24px;
+    margin: 0 0 20px;
+    color: #000000;
+}
+
+@media (max-width: 768px){
+    .inncol {
+        width: 100%;
+    }
+    .serviceBox .service-content {
+        
+        height: auto;
+    }
+    }

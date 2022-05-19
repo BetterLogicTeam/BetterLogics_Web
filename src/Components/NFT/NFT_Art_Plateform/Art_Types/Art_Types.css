@@ -1,0 +1,19 @@
+
+
+.section_solid_Art_type{
+    background-color: #0f1932!important;
+
+}
+
+.textinnerherearttype span  {
+    color: #fff;
+    font-size: 24px;
+    font-weight: 500;
+    margin-bottom: 0.5em;
+    text-transform: uppercase;
+
+}
+.textinnerherearttype p{
+    color: #fff;
+    font-size: 14px;
+}

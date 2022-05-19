@@ -1,0 +1,56 @@
+
+
+.swiper_slide_DEFI_Market{
+    border-bottom: 3px solid #2453b6;
+    background-position: 70% 20%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 300px !important;
+    padding-bottom: 150px;
+    position: relative;
+    background-image: url('../../../../Assets/DEFI/DEFI_Marketing/banner-pg.jpg');
+}
+
+.swiper_slide_DEFI_Market::before {
+    background-color: #2453b6;
+    border-radius: 100%;
+    content: "";
+   
+    left: -150px;
+    opacity: 1;
+    position: absolute;
+    right: 0;
+    top: 0px;
+    transform: skew(
+-1deg);
+   
+    z-index: 0;
+    width: 62%;
+    height: 100%;
+}
+.text_heading_here{
+    margin-left: -2rem;
+}
+.text_heading_here span{
+    font-size: 40px !important;
+}
+
+
+
+
+@media screen and (max-width:768px) {
+    .swiper_slide_DEFI_Market::before {
+        display: none;
+    }
+    .text_heading_here{
+        margin-left: 0rem;
+    }
+    .text_heading_here span{
+        font-size: 40px !important;
+    }
+    .butonherimghhh{
+        display: flex;
+        justify-content: center;
+    }
+    
+}

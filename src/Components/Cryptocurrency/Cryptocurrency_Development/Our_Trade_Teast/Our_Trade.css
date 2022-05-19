@@ -1,0 +1,33 @@
+
+
+
+
+
+.section-block-parallax {
+    position: relative;
+    background-attachment: fixed;
+    background-image: url('../../../../Assets/Crpto/Crpto_Development/bg2.png');
+}
+.marketing-ser-list {
+    text-align: center;
+}
+
+.list-inline {
+    padding-left: 0;
+    margin-left: -5px;
+    list-style: none;
+}
+.marketing-ser-list li {
+    display: inline-block;
+    text-align: center;
+    padding: 25px;
+}
+.marketing-ser-list li img {
+    display: block;
+    width: 50px;
+    margin: 0 auto 20px;
+}
+.marketing-ser-list li p {
+    font-size: 18px;
+    color: #fff;
+}

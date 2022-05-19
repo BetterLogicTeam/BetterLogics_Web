@@ -1,0 +1,257 @@
+
+
+.swiper_slide_pancake{
+    background-image: url('../../../../Assets/DEFI/PanCake/bannerpan.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    height: auto;
+    padding-top: 220px !important;
+    padding-bottom: 140px;
+    position: relative;
+    background-size: cover;
+}
+
+
+.p_Safe_Mood2{
+    color: #97afd5 !important;
+    text-align: left;
+
+}
+
+
+.cake{
+    color: #fff !important;
+}
+
+
+                
+.features ul li .icons:before {
+    content: '';
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 10px;
+    left: 10px;
+    background: url('../../../../Assets/DEFI/PanCake/border\ \(1\).png') no-repeat top left;
+    z-index: -1;
+}
+.features ul li .icons i img {
+   margin-top: 25px;
+    width: 70px;
+    padding: 5px;
+}
+.features ul li p strong {
+   font-family: 'Open Sans',sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    margin: 10px 0 10px;
+    color: #97afd5 !important;
+
+
+ 
+}
+.features ul li .icons:after {
+    content: '';
+    position: absolute;
+    width: 1px;
+    height: 270px;
+    top: 15px;
+    left: 60px;
+/*    border-right: 1px dashed #ababab;
+*/    z-index: -3;
+}
+.features ul li .icons {
+    width: 120px;
+    height: 120px;
+    font-size: 30px;
+    border-radius: 50%;
+    text-align: center!important;
+    position: absolute;
+    line-height: 52px;
+    z-index: 1;
+    line-height: 70px;
+    margin-left: 0px;
+}
+.features ul li {
+    margin-bottom: 30px;
+    min-height: 100px;
+}
+@media only screen and (min-width: 768px) and (max-width: 1023px){
+.features .right-content ul li {
+    width: 95%;
+    margin: 30px auto 0px auto;
+}
+.right-content ul li {
+    min-height: 130px;
+}
+}
+@media only screen and (min-width: 768px) and (max-width: 1023px){
+.features .right-content ul li {
+    width: 95%;
+    margin: 30px auto 0px auto;
+}
+.right-content ul li {
+    min-height: 130px;
+}
+}
+.right-content ul li p {
+    margin-left: 140px;
+    text-align: justify;
+    padding-top: 5px;
+}
+/*strong {
+    display: block;
+}*/
+.pancake{
+
+     padding: 90px 0;
+    /* background-color: #f2f2f24f; */
+    margin-top: -0rem;
+}
+@media only screen and (max-width: 767px)
+
+{
+    .features .appscreen{margin-top: 0px;}
+    .dt-ub-button{margin: 10px auto !important;}
+.banner_new_laun{height: auto;}
+   .banner-img{margin: 0px auto; left: 0; }
+.welcome-text{padding-top:0px; }
+   .features ul li .icons{margin-left: 0px;}
+   .features ul{margin-left:-10px !important; }
+   .right-content ul li p{margin-left: 120px;}
+   .left-content ul li p {margin-right: 100px; margin-left: 30px;}
+   .left-content .icons{right: 0px;}
+   .features ul li .icons:after{height: 190px;}
+   .make-money-img{display: none;}
+.make-money .nav-tabs .icon{float: none; margin: 0 auto;}
+.make-money .nav-tabs>li a{padding: 10px 0px;}
+
+   .addons ul {width: 40%;}
+   .process ul li{  margin: 25px;}
+   .process ul li:nth-child(6):before{top: -10px;}
+
+   .make-money-items .content{min-height: auto;}
+   .provide ul li:last-child{margin-left: 0px; width: 100%;}
+
+
+}
+.pan-cake{
+
+    border-radius: 10px;
+}
+
+@media only screen and (min-width: 320px) and (max-width: 991px){
+
+.pan-cake{
+
+    margin-bottom: 20px;
+}
+
+
+}
+@media only screen and (min-width: 320px) and (max-width:353px){
+    .features-box h4 {
+    font-size: 13px!important;
+    
+}
+
+    }
+    .cake{
+        margin-left: 140px;
+    }
+
+
+    /* ------------------------------------------------------ */
+
+
+
+    
+    
+ 
+
+
+
+
+    .single-work2 {
+        padding: 25px 17px;
+        -webkit-transition: .3s;
+        transition: .3s;
+        margin-top: 20px;
+        border-radius: 8px;
+        box-shadow: 0 2px 4px 1px rgb(0 0 0 / 0%);
+    }
+    .single-work2 img {
+        max-width: 80px;
+        min-height: 62px;
+    }
+    .single-work2 h3 {
+        font-size: 20px;
+        padding-top: 15px;
+        color: #fff !important;
+    }
+    
+    .single-work2:hover {
+        box-shadow: 0 5px 10px 0 rgb(252 104 114 / 69%);
+        transform: translateY(-5px);
+        -webkit-transition: .3s;
+        transition: .3s;
+    }
+    .blockchain-game {
+        padding: 90px 0;
+        background-color: #ffffff;
+    }
+    @media (max-width: 767px){
+    .single-work2 {
+        margin-top: 30px;
+    }
+    
+    
+    }
+    @media (min-width: 768px) and (max-width: 991px){
+    
+    .single-work2 {
+        padding: 25px 15px;
+        min-height: 280px;
+     
+        margin-top: 30px;
+    }
+    
+    
+    }
+    @media (min-width: 992px)  and (max-width: 1199px) {
+    
+    .single-work2 {
+        min-height: 275px;
+        padding: 20px 10px;
+    
+    }
+    
+    }
+    @media (min-width: 1200px){
+    
+    .single-work2 {
+        min-height: 235px;
+        padding: 20px 10px;
+    }
+    
+    
+    }
+    
+    .single-work2 h3 {
+        font-size: 20px;
+        padding-top: 15px;
+    }
+    
+        
+
+
+
+
+
+
+
+
+
+    .demo-sec12{
+        background-image: linear-gradient(45deg, #00000094, #000000a6),url('../../../../Assets/DEFI/PanCake/ctanew.png');
+    }

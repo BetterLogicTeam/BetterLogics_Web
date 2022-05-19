@@ -1,0 +1,163 @@
+
+
+.eto-Token-mar2 .feature-box121 {
+    height: 500px;
+    padding: 0px;
+    background: #f4f4f4;
+    border-radius: 15px;
+    margin: 0 auto 30px;
+    padding-top: 0%;
+    
+    border: 2px solid transparent;
+    cursor: pointer;
+    box-shadow: 2px 2px 20px 0 rgb(50 50 50 / 21%);
+}
+.eto-Token-mar2 .feature-box121 img {
+    width: 100%;
+    height: auto;
+    border-radius: 15px;
+
+}
+
+.eto-Token-mar2 .feature-box121:hover{
+    border: 3px solid #0d4fdd;
+
+}
+
+.feature-box121 h4{
+    margin-top: 1rem;
+}
+.feature-box121 p{
+    padding:10px;
+}
+
+
+@media screen and (max-width: 768px){
+
+    .eto-Token-mar2 .feature-box121 {
+        height: auto !important;
+
+    }
+
+    .why-choose-hashgraph .serviceBox {
+        height: auto !important;
+    }
+
+    .btnRow{
+        display: flex;
+        flex-direction: column;
+    }
+    }
+
+
+
+
+
+
+
+
+
+    /* ------------------------------------------------------- */
+
+    .milestone-sec .pre-feature-box {
+        min-height: auto;
+    }
+    
+    .sto-Token-sec .feature-box {
+        border-bottom: 2px solid;
+    }
+    .feature-box {
+        padding: 20px;
+        border-radius: 5px;
+        margin: 20px 0;
+        
+        
+        box-shadow: 2px 2px 20px 0 rgba(255, 255, 255, 0.50);
+        transition-duration: .3s;
+    }
+
+    .feature-block, .feature-box {
+        position: relative;
+        background: #fff;
+        text-align: center;
+    }
+    .sto-Token-sec .services-icon {
+        height: 65px;
+    }
+
+
+
+
+    .why-choose-hashgraph .serviceBox {
+        /* font-family: 'Titillium Web', sans-serif; */
+        text-align: center;
+        padding: 10px 15px;
+        box-shadow: 0px -3px 7px rgb(0 0 0 / 19%);
+        position: relative;
+        z-index: 1;
+        transition: all 0.3s ease 0s;
+        margin-top: 40px;
+        background-color: #fff;
+        height: 400px;
+    }
+
+    .why-choose-hashgraph .serviceBox:before {
+        content: "";
+        background: #073eb3;
+        width: 80px;
+        height: 15px;
+        border-radius: 15px 15px 0 0;
+        transform: translateX(-50%);
+        position: absolute;
+        top: -15px;
+        left: 50%;
+    }
+    .why-choose-hashgraph .serviceBox .service-icon {
+        color: #1abc9c;
+        background: #fff;
+        font-size: 50px;
+        line-height: 110px;
+        width: 130px;
+        height: 130px;
+        margin: 0 auto 20px;
+        border-radius: 50%;
+        border: 10px solid #2453b6;
+        position: relative;
+        transition: all 0.3s ease 0s;
+    }
+
+    .why-choose-hashgraph .serviceBox .service-icon {
+        color: #1abc9c;
+        background: #fff;
+        font-size: 50px;
+        line-height: 110px;
+        width: 130px;
+        height: 130px;
+        margin: 0 auto 20px;
+        border-radius: 50%;
+        border: 10px solid #2453b6;
+        position: relative;
+        transition: all 0.3s ease 0s;
+    }
+    .why-choose-hashgraph .serviceBox .service-icon img {
+        width: 60px;
+        line-height: 90px;
+        margin-top: 20px;
+    }
+    .why-choose-hashgraph .serviceBox .service-icon:before {
+        content: "";
+        background: #2453b6;
+        width: 55px;
+        height: 35px;
+        border-radius: 0 0 15px 15px;
+        transform: translateX(-50%);
+        position: absolute;
+        top: -35px;
+        left: 50%;
+    }
+    .why-choose-hashgraph .serviceBox .description12 {
+        font-size: 15px;
+        line-height: 28px;
+        min-height: 110px;
+        color: #000;
+    }

@@ -1,0 +1,51 @@
+
+
+.Home_Blockchain_consultin{
+    border-bottom: 3px solid #2453b6;
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 230px !important;
+    padding-bottom: 120px;
+    position: relative;
+    background-image: url('../../../../Assets/BLockChain/Blockchain_count/banner-img.jpg');
+}
+
+.Home_Blockchain_consultin:before {
+    content: "";
+    position: absolute;
+    left: -60px;
+    right: 0px;
+    bottom: 0px;
+    top: 0px;
+    width: 60%;
+    background: rgb(255 255 255 / 95%);
+    transform: skewX(10deg);
+    z-index: 9;
+    border-right: 2px solid #2453b6;
+}
+
+.headinnew h1{
+    font-size: 40px!important;
+    color: #2453b6;
+}
+.headinnew p{
+    color: #000 !important;
+}
+
+@media screen and (max-width: 767px){
+.Home_Blockchain_consultin:before {
+    
+    content: "";
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    top: 0px;
+    width: 100%;
+    background: rgb(255 255 255 / 60%);
+    transform: initial;
+    z-index: 9;
+    border-right: none;
+}
+}

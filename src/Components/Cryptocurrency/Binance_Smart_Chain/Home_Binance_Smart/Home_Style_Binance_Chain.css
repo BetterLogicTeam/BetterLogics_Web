@@ -1,0 +1,200 @@
+
+
+
+.swiper_slide_Home_Binance_Smart{
+    border-bottom: 3px solid #2453b6;
+    /* background-position: 70% 13%; */
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+    background-image: url('../../../../Assets/Crpto/Binance_Smart/binance-banner.png');
+    padding-top: 240px !important;
+    padding-bottom: 160px;
+    height: auto;
+    position: relative;
+}
+
+
+
+
+
+
+
+
+
+.main-timeline1:after{
+    content: '';
+    display: block;
+    clear: both;
+}
+.main-timeline1:before{
+    content: '';
+    height: 100%;
+    width: 3px;
+    border-left: 3px dashed #555;
+    transform: translateX(-50%);
+    position: absolute;
+    top: auto;
+    left: 50%;
+}
+.main-timeline1 .timeline1{
+    width: 50%;
+    padding: 15px 15px 15px 55px;
+    margin: 0 0 0 5px;
+    float: right;
+    position: relative;
+    z-index: 1;
+}
+.main-timeline1 .timeline1:before{
+    content: '';
+    background-color: #2754b4;
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    transform: translateY(-50%);
+    position: absolute;
+    left: -10px;
+    top: 50%;
+}
+.main-timeline1 .timeline1-content{
+    color: #777;
+    background: rgba(255,255,255,0.9);
+    text-align: left;
+    padding: 15px;
+    border-radius: 20px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.08);
+    display: block;
+    position: relative;
+}
+.main-timeline1 .timeline1-content:hover{ text-decoration: none; }
+.main-timeline1 .timeline1-content:before,
+.main-timeline1 .timeline1-content:after{
+    content: "";
+    background: #2754b5;
+    width: 35px;
+    height: 35px;
+    transform: translateY(-50%) rotate(45deg);
+    position: absolute;
+    top: 50%;
+    left: -33px;
+    z-index: -1;
+}
+.main-timeline1 .timeline1-content:after{
+    background: linear-gradient(to left, transparent, #2453b6);
+    height: auto;
+    width: auto;
+    border-radius: 20px;
+    transform: translateY(0);
+    left: -15px;
+    right: -15px;
+    top: -15px;
+    bottom: -15px;
+    z-index: -2;
+}
+.main-timeline1 .timeline1-icon{
+    color: #555;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 35px;
+    margin: 0 0 10px;
+}
+.main-timeline1 .title{
+    color: #fff;
+    font-size: 25px;
+    font-weight: 500;
+    text-transform: uppercase;
+    margin: 0 0 10px 0;
+}
+.main-timeline1 .description{
+    font-size: 14px;
+    line-height: 22px;
+    letter-spacing: 1px;
+    margin: 0;
+    color: #000 !important;
+}
+.main-timeline1 .timeline1:nth-child(even){
+    padding: 15px 55px 15px 15px;
+    margin: 0 5px 0 0;
+    float: left;
+}
+.main-timeline1 .timeline1:nth-child(even):before{
+    left: auto;
+    right: -10px;
+}
+.main-timeline1 .timeline1:nth-child(even) .timeline1-content:before{
+    left: auto;
+    right: -33px;
+}
+.main-timeline1 .timeline1:nth-child(even) .timeline1-content:after{ transform: rotate(180deg); }
+.main-timeline1 .timeline1:nth-child(4n+2):before,
+.main-timeline1 .timeline1:nth-child(4n+2) .timeline1-content:before{
+    background-color: #2652b1
+}
+.main-timeline1 .timeline1:nth-child(4n+2) .timeline1-content:after{
+    background: linear-gradient(to left, transparent, #2754b5);
+}
+.main-timeline1 .timeline1:nth-child(4n+2) .title{     color: #2652b1; }
+.main-timeline1 .timeline1:nth-child(4n+3):before,
+.main-timeline1 .timeline1:nth-child(4n+3) .timeline1-content:before{
+    background-color: #F38F31
+}
+.main-timeline1 .timeline1:nth-child(4n+3) .timeline1-content:after{
+    background: linear-gradient(to left, transparent, #F38F31);
+}
+.main-timeline1 .timeline1:nth-child(4n+3) .title{ color: #F38F31; }
+.main-timeline1 .timeline1:nth-child(4n+4):before,
+.main-timeline1 .timeline1:nth-child(4n+4) .timeline1-content:before{
+    background-color: #E65455
+}
+.main-timeline1 .timeline1:nth-child(4n+4) .timeline1-content:after{
+    background: linear-gradient(to left, transparent, #E65455);
+}
+.main-timeline1 .timeline1:nth-child(4n+4) .title{ color: #E65455; }
+@media screen and (max-width:767px){
+    .main-timeline1:before{
+        transform: translateX(-50%);
+        left: 18px;
+    }
+    .main-timeline1 .timeline1,
+    .main-timeline1 .timeline1:nth-child(even){
+        width: 100%;
+        padding: 15px 15px 15px 55px;
+        margin: 0 0 30px;
+    }
+    .main-timeline1 .timeline1:before,
+    .main-timeline1 .timeline1:nth-child(even):before{
+        left: -7px;
+    }
+    .main-timeline1 .timeline1-content:before,
+    .main-timeline1 .timeline1:nth-child(even) .timeline1-content:before{
+        left: -33px;
+        right: auto;
+    }
+    .main-timeline1 .timeline1:nth-child(even) .timeline1-content:after{ transform: rotate(0); }
+    .main-timeline1 .title{ font-size: 23px; }
+}
+
+
+
+/* ------------------------------------------------------ */
+
+
+
+
+.box1280{
+    background: white;
+   padding: 5%;
+   border-radius: 10px;
+   box-shadow: 0 0 9px 2px #00000024;
+   margin-bottom: 20px;
+   min-height: 172px;
+
+   }
+   .frst_bg{
+           /* background: white; */
+   padding: 3% 3% 3% 9%;
+   }
+   .scnd_bg{
+           background: #2453b624;
+   padding: 3% 9% 4% 3%;
+   }

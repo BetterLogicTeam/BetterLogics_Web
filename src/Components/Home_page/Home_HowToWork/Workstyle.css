@@ -1,0 +1,403 @@
+
+
+
+
+.section-block {
+    padding: 90px 0;
+    background-color: #fff;
+}
+.section-heading {
+    margin-bottom: 10px;
+}
+
+.center-holder {
+    text-align: center;
+}
+.section-heading h2 {
+    font-size: 37px;
+    color: #fff;
+    margin-bottom: 10px;
+    line-height: 1.2;
+}
+
+.section-heading h2, .section-heading h3 {
+    position: relative;
+    font-weight: 400;
+    /* line-height: 140%; */
+}
+.section-heading p {
+    font-size: 15px;
+    font-weight: 400;
+    color: #97afd5;
+    line-height: 160%;
+    padding-top: 15px;
+    margin-bottom: 0;
+}
+.section-heading h4 {
+    font-size: 30px;
+    line-height: 160%;
+}
+
+.section-heading h4, .section-heading h5, .section-heading h6 {
+    font-weight: 500;
+    color: #fff;
+    margin-bottom: 10px;
+    position: relative;
+}
+
+.work-inner-box {
+    text-align: left;
+}
+
+.work-inner-box {
+    background: #f2f4ec;
+    padding: 36px 30px;
+    margin-bottom: 20px;
+    min-height: 550px !important;
+}
+
+
+.work-inner-box p{
+    font-size: 15px;
+    font-weight: 400;
+    color: #666;
+    line-height: 160%;
+    padding-top: 15px;
+    margin-bottom: 0;
+    
+}
+
+.work-inner-box h4{
+    font-weight: 500;
+    color: #000;
+    margin-bottom: 10px;
+    position: relative;
+
+}
+
+.icon-box {
+    width: 130px;
+    height: 130px;
+    text-align: center;
+    margin: 0 auto;
+    margin-bottom: 30px;
+    /* -webkit-transition: .3s; */
+    -o-transition: .3s;
+    transition: .3s;
+    padding: 30px;
+}
+.work-icon {
+    border: 7px solid#fff;
+    background: #f42f54;
+}
+[class*=" icon-"], [class^=icon-] {
+    font-family: icomoon!important;
+    speak: none;
+    font-style: normal;
+    font-weight: 400;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.work-inner-box h4 {
+    font-size: 20px;
+}
+
+.innerheadinPsetion{
+    color: #666 !important;
+}
+.work-icon img {
+    width: 60px;
+    max-width: 100%;
+    height: auto;
+    /* -webkit-transition-duration: .3s; */
+    transition-duration: .3s;
+}
+
+
+img {
+    vertical-align: middle;
+}
+::marker {
+    unicode-bidi: isolate;
+    font-variant-numeric: tabular-nums;
+    text-transform: none;
+    text-indent: 0px !important;
+    text-align: start !important;
+    text-align-last: start !important;
+}
+
+.work-inner-box ul li {
+    color: #000;
+    font-size: 15px;
+    text-shadow: 0px 0px;
+    list-style-type: square;
+}
+
+.work-inner-box ul li {
+    padding: 4px 0;
+}
+.work-inner-box {
+    background: #f2f4ec;
+    padding: 36px 30px;
+    margin-bottom: 20px;
+    min-height: 500px;
+}
+
+
+/* -----------------------------------------------Block Development here------------------------------ */
+
+
+.section-clients-grey {
+    position: relative;
+}
+
+.section-clients-grey {
+    background: #0f1932;
+    padding: 50px 0;
+}
+
+.section-heading {
+    margin-bottom: 10px;
+}
+
+.center-holder {
+    text-align: center;
+}
+.section-clients-grey h2 {
+    position: relative;
+    z-index: 999;
+    color: #fff;
+}
+
+.headinginreal {
+    font-size: 37px;
+    color: #111 !important;
+    font-weight: 400;
+    margin-bottom: 10px;
+    line-height: 1.2;
+}
+
+.big_img {
+    position: relative;
+    
+}
+.big_img img {
+    width: 100%;
+    height: 100% !important;
+   
+}
+
+
+
+.mp_cnt {
+    position: absolute;
+    bottom: 0;
+    z-index: 1;
+    padding: 20px;
+    /* margin-top: -10rem; */
+}
+.mp_cnt h5, .mp_cnt p {
+    color: #fff;
+    
+}
+
+.mp_cnt h5 {
+    font-size: 23px;
+}
+.section-heading h5 {
+    /* font-size: 25px; */
+    line-height: 160%;
+}
+.mp_cnt p {
+    font-weight: normal;
+    line-height: 1.5;
+}
+
+
+
+.big_img:after {
+    content: '';
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    /* background-color: rgba(23, 20, 20, 0.42) !important; */
+    background: linear-gradient(rgb(255, 255, 255, 0), rgb(0, 0, 0));
+    z-index: 0;
+    /* margin-top: -10rem; */
+}
+.ld-flipbox {
+    /* display: -webkit-box; */
+    display: flex;
+    min-height: 312px;
+    margin-bottom: 10px;
+    position: relative;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    flex-direction: column;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    /* -webkit-transform-style: preserve-3d; */
+    transform-style: preserve-3d;
+    /* -webkit-perspective: 1200px; */
+
+    perspective: 1200px;
+}
+
+
+
+.ld-flipbox-wrap, .ld-flipbox-face {
+    /* -webkit-transform-style: inherit; */
+    transform-style: inherit;
+    /* -webkit-perspective: inherit; */
+    perspective: inherit;
+}
+.ld-flipbox-inner, .ld-flipbox-face, .ld-flipbox-wrap {
+    width: 100%;
+    min-height: inherit;
+    border-radius: inherit;
+ 
+}
+.ld-flipbox-wrap {
+    position: relative;
+    /* -webkit-transition-property: box-shadow, -webkit-transform; */
+    /* transition-property: box-shadow, -webkit-transform; */
+    /* transition-property: box-shadow, transform; */
+    transition-property: box-shadow, transform, -webkit-transform;
+    /* -webkit-transition-duration: 0.6s; */
+    transition: transform 0.8s;
+    /* -webkit-transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1); */
+    /* transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1); */
+    cursor: pointer;
+}
+
+
+.ld-flipbox-wrap:hover {
+    transform: rotateY(180deg);
+  }
+
+
+.firstfliphere{
+    background-image: url('../../../Assets/HomeImg/healthcare-industry.jpg');
+}
+
+.Secondfliphere{
+    background-image: url('../../../Assets//HomeImg/insurance-industry.jpg');
+}
+
+.thirdfliphere{
+    background-image: url('../../../Assets/HomeImg/retail-industry.jpg');
+}
+.fourthfliphere{
+    background-image: url('../../../Assets/HomeImg/goverment-instution.jpg');
+}
+.fifthfliphere{
+    background-image: url('../../../Assets/HomeImg/lorgestics-industry.jpg');
+}
+.sixthfliphere{
+    background-image: url('../../../Assets/HomeImg/transportation-industry.jpg');
+}
+.seventhfliphere{
+    background-image: url('../../../Assets/HomeImg/entertiment-industry.jpg');
+}
+
+.ninthfliphere{
+    background-image: url('../../../Assets/HomeImg/agriculture-industry.jpg');
+}
+.ld-flipbox-back {
+    height: 100%;
+  
+    position: absolute;
+    top: 0;
+    left: 0;
+    /* -webkit-transform: rotate3d(0, 1, 0, 
+180deg
+); */
+    transform: rotate3d(0, 1, 0,180deg);
+}
+
+.ld-flipbox-wrap, .ld-flipbox-face {
+    /* -webkit-transform-style: inherit; */
+    transform-style: inherit;
+    /* -webkit-perspective: inherit; */
+    perspective: inherit;
+}
+
+.ld-flipbox-face {
+    /* display: -webkit-box; */
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    flex-direction: column;
+    -webkit-box-align: stretch;
+    align-items: stretch;
+    background-size: cover;
+    background-position: center;
+    background-color: #f42f54;
+    /* -webkit-backface-visibility: hidden; */
+    backface-visibility: hidden;
+}
+
+.ld-flipbox-overlay.ld-overlay {
+    background-color: rgba(23, 20, 20, 0.42) !important;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+.ld-flipbox-back .ld-flipbox-inner {
+    /* -webkit-transform: translate3d(0, 0, 60px) scale(0.95); */
+    transform: translate3d(0, 0, 60px) scale(0.95);
+}
+
+.ld-flipbox-inner {
+    /* display: -webkit-box; */
+    display: flex;
+    -webkit-box-flex: 1;
+    flex: 1 auto;
+    padding: 40px 15px;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    flex-direction: column;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    text-align: center;
+    color: #fff;
+    transform-style: preserve-3d;
+
+}
+.ld-flipbox-inner :last-child {
+    margin-bottom: 0;
+    color: #fff;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 1.8;
+}
+
+.ld-flipbox-inner h3.font-weight-normal {
+    font-size: 23px;
+    line-height: 1.4;
+    font-weight: normal;
+}
+
+@media screen and (max-width: 767px){
+.section-heading h2 {
+    font-size: 25px;
+}
+}
+
+@media screen and (max-width: 767px){
+.section-heading h4 {
+    font-size: 22px;
+}
+}

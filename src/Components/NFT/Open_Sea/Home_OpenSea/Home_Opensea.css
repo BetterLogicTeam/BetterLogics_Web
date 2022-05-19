@@ -1,0 +1,116 @@
+
+
+.swiper_slide_Opensea{
+    background-image: url('../../../../Assets/OpenSea/bnr_1.png');
+    background-position: 70% 20%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 240px !important;
+    padding-bottom: 30px;
+   
+    position: relative;
+    height: auto;
+}
+
+.sec_overlay_Opense{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgb(0 0 0 / 10%);
+}
+
+.opsetexthome{
+    text-align: left !important;
+    margin-left: 0rem !important;
+}
+
+.opensea_imghere{
+    margin-top: 0rem !important;
+    width: 100% !important;
+}
+
+
+
+
+
+
+/* --------------------------------------------- */
+
+
+.gray_bg{
+    background-color: #0f1932!important;
+
+}
+
+.newopense{
+    background-color: #0f1932!important;
+
+
+}
+
+
+
+#post-ico-services .technicalbox {
+    background: #fff;
+}
+
+.technicalbox2 {
+    background: #fff none repeat scroll 0 0;
+    border-radius: 3px;
+    box-shadow: 0 5px 50px 0 rgb(0 0 0 / 4%);
+    margin-bottom: 30px;
+    padding: 60px 30px;
+    position: relative;
+    min-height: 420px;
+    /* width: 95\\% !important; */
+}
+
+.technicalbox2 .technical-icon:after {
+    content: "";
+    width: 111px;
+    height: 111px;
+    border-radius: 10%;
+    border: 4px solid #2453b5;
+    position: absolute;
+    top: -10px;
+    left: -10px;
+    opacity: 0;
+    transform: scale(0.8, 0.8);
+    transition: all 500ms ease 0;
+}
+
+.technicalbox2 h3 {
+    font-size: 15px;
+}
+
+.grids .grid .technicalbox2 .technical-icon span i {
+    padding: 25px;
+}
+
+.technicalbox2 .technical-icon {
+    width: 90px;
+    height: 90px;
+    line-height: 90px;
+    border-radius: 10%;
+    background: #aec8ffad;
+    font-size: 36px;
+    color: #fff;
+    margin: 0 auto 30px;
+    position: relative;
+    transition: all 500ms ease 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.technicalbox2:hover .technical-icon:after {
+    opacity: 1;
+    transform: scale(1, 1);
+}
+
+.technicalbox2:hover .technical-icon {
+    transform: scale(0.8, 0.8);
+    transition: .4s all;
+}

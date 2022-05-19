@@ -1,0 +1,39 @@
+
+
+.swiper_slide_Crpto_MLM{
+    background-image: url('../../../../Assets/Crpto/Crpto_MLM/banner-mlm.jpg');
+    height: auto;
+    padding-top: 330px;
+    padding-bottom: 150px;
+    position: relative;
+}
+
+.bg_Span{
+    background: #2453b6;
+    padding: 30px;
+   
+    border-radius: 100%;
+}
+.Card_Heaghthere{
+    height: 450px;
+}
+
+.list_ml_here{
+    margin-left: 1rem;
+}
+
+@media screen and (max-width:480px) {
+
+    .Card_Heaghthere{
+        height: auto;
+    }
+    
+}
+
+
+.bg_Crpto_Card{
+    background-image: url('../../../../Assets/Crpto/Crpto_MLM/bg-1.png');
+    background-size: cover;
+    padding: 90px 0;
+    background-color: #fff;
+}

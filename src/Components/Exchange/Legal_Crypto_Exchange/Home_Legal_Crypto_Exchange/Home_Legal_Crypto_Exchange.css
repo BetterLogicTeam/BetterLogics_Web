@@ -1,0 +1,90 @@
+
+
+.swiper_slid_Home_Legal_Crypto_Exchange{
+    background-image: url('../../../../Assets/Exchange/Legal_Crypto_Exchange/banner-img.jpg');
+    border-bottom: 3px solid #2453b6;
+    background-position: 70% 13%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+   
+    padding-top: 240px !important;
+    padding-bottom: 160px;
+    position: relative;
+    height: auto;
+}
+.color_change{
+    background: #00000078;
+    padding: 20px 15px;
+    border-radius: 10px;
+}
+
+
+ul.expert-whitelabel-list12 li {
+    width: 30%;
+    border: none;
+    margin: 8px;
+    padding: 8px;
+    background: #fff;
+    border-bottom: 3px solid #d21e2b;
+    border-radius: 20px;
+    padding: 40px 10px;
+}
+
+ul.expert-whitelabel-list12 li {
+    display: inline-block;
+    /* width: 24%; */
+    /* padding: 8px 15px; */
+    /* border-right: 1px solid; */
+    box-shadow: 0px 3px 2px rgb(51 51 51 / 20%);
+}
+.icon0120 {
+    margin-bottom: 10px;
+}
+.icon0120 img {
+    width: 45px;
+}
+ ul.expert-whitelabel-list12 li h3 {
+    font-size: 18px;
+}
+ ul.expert-whitelabel-list12 li h3 a {
+    font-size: 12px !important;
+    text-decoration: none !important;
+}
+.newclas_witdth{
+    width: 95%;
+}
+
+
+
+.consulting-service{
+    background: url('../../../../Assets/Exchange/Legal_Crypto_Exchange/legal-pg.jpg') no-repeat top center / cover;
+padding-bottom: 100px;
+padding-top: 20px;
+    position: relative;
+}
+.consulting-service:before {
+    content: "";
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    top: 0px;
+    bottom: 0px;
+    background: #d21e2b;
+    width: 60%;
+}
+.section-heading {
+    margin-bottom: 10px;
+    position: relative;
+}
+
+@media only screen and (max-width: 767px){
+.consulting-service:before {
+    width: 100%;
+}
+ ul.expert-whitelabel-list12 li {
+    width: 98%;
+}
+}
+

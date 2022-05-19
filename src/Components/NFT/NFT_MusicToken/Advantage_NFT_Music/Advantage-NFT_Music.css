@@ -1,0 +1,78 @@
+
+
+
+
+.intro_cnt p{
+    color: #97afd5;
+    text-align: center !important;
+
+}
+#post-ico-services .technicalbox {
+    background: #fff;
+}
+
+.technicalbox {
+    /* background: #fff none repeat scroll 0 0; */
+    border-radius: 3px;
+    box-shadow: 0 5px 50px 0 rgb(0 0 0 / 4%);
+    margin-bottom: 30px;
+    padding: 30px 10px;
+    position: relative;
+    min-height: 400px;
+    width: 105% !important;
+}
+
+
+
+.technicalbox .technical-icon {
+    width: 90px;
+    height: 90px;
+    line-height: 90px;
+    border-radius: 10%;
+    background: #aec8ffad;
+    font-size: 36px;
+    color: #fff;
+    margin: 0 auto 30px;
+    position: relative;
+    transition: all 500ms ease 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.technical-icon img {
+    width: 70px;
+    height: auto;
+}
+.technicalbox h3 {
+    font-size: 14px;
+}
+
+.text-center {
+    text-align: center;
+}
+.technicalbox p {
+    color: #000;
+    font-size: 14px;
+    line-height: 1.7;
+    margin-bottom: 0;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.technical-icon:hover{
+    border: 3px groove #2453b6;
+}
+.technical-icon:hover  {
+    /* -webkit-transform: scale(1.08); */
+    transform: scale(1.2);
+  }
+  
+
+  @media screen and (max-width:480px) {
+    .technicalbox{
+        width: 100% !important;
+    }
+      
+  }

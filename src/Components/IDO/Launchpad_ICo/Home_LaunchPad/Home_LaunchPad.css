@@ -1,0 +1,63 @@
+
+.swiper_slide_LaunchPad{
+    height: auto;
+    padding-top: 280px !important;
+    padding-bottom: 190px;
+    background-position: center top;
+    background-image: url('../../../../Assets/IDO/LaunchPad/ido-launchpad-banner.png');
+    position: relative;
+    background-size: cover;
+}
+
+
+
+
+
+.feature-flex-square741 {
+    min-height: 224px;
+    border: 2px solid #eee;
+    padding: 20px 0;
+}
+
+.feature-flex-square741 {
+    position: relative;
+    border-radius: 5px;
+    margin: 30px 0;
+    /* -webkit-transition-duration: .3s; */
+    transition-duration: .3s;
+}
+
+.feature-flex-square-icon741 {
+    width: 15%;
+}
+
+.feature-flex-square-icon741 {
+    float: left;
+    width: 25%;
+    margin-top: 5px;
+    /* -webkit-transition-duration: .3s; */
+    transition-duration: .3s;
+}
+.ser-img {
+    height: 75px;
+}
+.feature-flex-square-content741 {
+    float: left;
+    width: 75%;
+    padding-left: 0px;
+}
+.feature-flex-square-content741 h4, .feature-flex-square-content741 h4 a {
+    color: #fff;
+    font-size: 19px;
+    text-align: left;
+    font-weight: 500;
+}
+.feature-flex-square-content741 p {
+    color: #97afd5 !important;
+    text-align: left;
+
+    font-size: 15px;
+    font-weight: 400;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}

@@ -1,0 +1,240 @@
+
+
+
+.section-block {
+    padding: 90px 0;
+    /* background-color: #fff; */
+}
+
+.section-heading {
+    margin-bottom: 10px;
+}
+
+.center-holder {
+    text-align: center;
+}
+.section-heading h3 {
+    font-size: 35px;
+    color: #fff;
+    margin-bottom: 10px;
+}
+
+.section-heading h2, .section-heading h3 {
+    position: relative;
+    font-weight: 400;
+    line-height: 140%;
+}
+
+.blockchainmarket .feature-box {
+    background: #f2f4ec;
+    /* background: #fff; */
+    box-shadow: none !important;
+    min-height: 210px;
+    padding: 10px;
+    border-radius: 0px;
+    /* padding-top: 40px; */
+    margin-top: 35px;
+}
+.newclass_mttop{
+    margin-top: -5rem;
+}
+
+.feature-box {
+    /* padding: 20px; */
+    border-radius: 5px;
+    margin: 20px 0;
+    /* -webkit-box-shadow: 2px 2px 20px 0 rgb(50 50 50 / 21%); */
+    -moz-box-shadow: 2px 2px 20px 0 rgba(50,50,50,.21);
+    /* box-shadow: 2px 2px 20px 0 rgb(50 50 50 / 21%); */
+    /* transition-duration: .3s; */
+}
+.feature-box, .feature-box i {
+    -webkit-transition-duration: .3s;
+}
+.feature-block, .feature-box {
+    position: relative;
+    /* background: #fff; */
+    text-align: center;
+}
+.feature-icon {
+    border-radius: 5px 5px 0px 0px;
+    border: 1px solid #000;
+    border-bottom: 0px;
+}
+
+.feature-icon {
+    width: 64px;
+    height: 64px;
+    margin: 0px auto;
+    /* position: absolute; */
+    position: relative;
+    margin-top: -40px;
+    background: #f2f4ec;
+    padding: 8px;
+}
+
+.feature-icon img {
+    max-width: 100%;
+    height: auto;
+    -webkit-transition-duration: .3s;
+    transition-duration: .3s;
+}
+
+.feature-box h4 {
+    margin-bottom: 0px;
+}
+
+.feature-box h4 {
+    color: #111;
+    font-size: 18px;
+    margin: 15px 0;
+}
+.feature-box h4, .feature-box p {
+    font-weight: 500;
+    line-height: 170%;
+}
+.innerfaturehere p {
+    color: #666 !important;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+@media screen and (max-width: 767px){
+.section-heading h3 {
+    font-size: 25px;
+}
+}
+
+
+
+
+
+/* {------------------------------------------- Our BlockChain  Tech-------------------------------------} */
+
+
+
+.section-clients-grey.expert {
+    height: auto;
+}
+
+.section-clients-grey {
+    position: relative;
+}
+.section-clients-grey {
+    background: #f2f2f2;
+    padding: 50px 0;
+}
+.section-clients-grey.expert:before {
+    content: "";
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    top: 0px;
+    background: url('../../../Assets/HomeImg/expert-img.jpg');
+    width: 60%;
+    height: 570px;
+}
+
+.section-clients-grey.expert:after {
+    content: "";
+    position: absolute;
+    width: 50px;
+    height: 0;
+    top: 0px;
+    left: 32%;
+    border-bottom: 570px solid #f2f2f2;
+    border-left: 355px solid transparent;
+    z-index: 1;
+}
+.section-clients-grey h2 {
+    position: relative;
+    z-index: 999;
+    color: #000;
+}
+.section-clients-grey h2 span {
+    color: #000;
+}
+.clients.blockchain-plateform {
+    /* display: inline-block !important; */
+    /* background: #f00; */
+    padding: 15px;
+    background: #f2f2f2;
+    position: relative;
+    z-index: 99;
+}
+.blockchain-plateform .client-box {
+    border: 0;
+    background: transparent;
+    margin-bottom: 0;
+    margin-left: 0;
+}
+.tec_x {
+    max-width: 260px;
+    background: #fff;
+    margin-bottom: 35px;
+    padding: 12px 10px 5px;
+    outline: 5px solid #2653b5;
+    border: 5px solid #eaeaea;
+}
+.tec_x img {
+    height: 90px;
+}
+
+
+
+.clients img {
+    opacity: .6;
+    transition-duration: .3s;
+}
+.tec_x h6 {
+    font-family: 'Oswald', sans-serif;
+    letter-spacing: 0px;
+    font-size: 16px;
+    margin-top: 10px;
+    line-height: 1.6;
+    margin-bottom: 10px;
+}
+
+.lastimg{
+    width: 90%;
+}
+
+.clients img:hover{
+    opacity: 2;
+
+}
+
+/* @media only screen and (max-width: 700px){
+.section-clients-grey.expert {
+    height: auto;
+}
+} */
+
+@media (min-width:280px) and (max-width:768px) {
+
+    .section-clients-grey.expert:before {
+        content: "";
+        position: absolute;
+        left: 0px;
+        right: 0px;
+        bottom: 0px;
+        top: 0px;
+        background: url('');
+        width: 60%;
+        height: 570px;
+    }
+
+    .section-clients-grey.expert:after {
+       display: none;
+    }
+    .tec_x {
+    max-width: 100%;
+    background: #fff;
+    margin-bottom: 35px;
+    padding: 12px 10px 5px;
+    outline: 5px solid #2653b5;
+    border: 5px solid #eaeaea;
+}
+    
+}

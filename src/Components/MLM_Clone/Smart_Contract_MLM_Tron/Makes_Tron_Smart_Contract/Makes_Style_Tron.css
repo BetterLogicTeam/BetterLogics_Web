@@ -1,0 +1,36 @@
+
+
+.chooseing-technologies:before {
+    content: "";
+    position: absolute;
+    left: -240px;
+    right: 0px;
+    top: 0px;
+    bottom: 0px;
+    background: #2453b6;
+    width: 80%;
+    transform: skewX(-30deg);
+}
+.chooseing-technologies {
+    position: relative;
+    overflow: hidden;
+    padding-bottom: 30px;
+}
+.video-video-box {
+    position: relative;
+    display: block;
+    height: auto;
+}
+
+
+.mlm_herecheck{
+    margin-top: 0rem !important;
+}
+
+@media screen and (max-width: 768px){
+.chooseing-technologies:before {
+    transform: none;
+    width: 100%;
+    left: 0;
+}
+}

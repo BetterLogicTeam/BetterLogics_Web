@@ -1,0 +1,158 @@
+
+
+footer {
+    padding: 60px 0 20px;
+}
+
+.newsletter-form span.contact-form-icon:hover, footer {
+    background: #111;
+    
+}
+article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary {
+    display: block;
+}
+ul {
+    padding-left: 0;
+    margin-bottom: 0;
+}
+.bgherefooter{
+    background: transparent !important;
+    outline: none;
+    border: none;
+}
+.footer_link_name{
+    text-decoration: none;
+    font-weight: 700;
+}
+
+ol, ul {
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+.inline-list li {
+    display: inline-block;
+    list-style-type: none;
+
+}
+.inline-list{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    width: 40%;
+    align-items: center;
+    margin-top: 1rem;
+}
+
+
+.new_links{
+    display: flex;
+    justify-content: end;
+}
+
+
+
+
+.foot-logo {
+    height: 35px;
+}
+
+.inline-list li:nth-child(2) a {
+    background: #fff;
+    display: inline-block;
+    padding: 5px;
+    width: 30px;
+}
+
+.inline-list li:nth-child(2) img {
+    display: inline-block;
+    width: 100%;
+}
+
+ul.new_links li {
+    display: inline-block;
+    text-align: center;
+    list-style-type: none;
+
+}
+ul.new_links li a {
+    margin-left: 5px;
+}
+
+ul.new_links li i {
+    width: 40px;
+    height: 40px;
+    background: #2453b6 !important;
+    border-radius: 50%;
+    line-height: 40px;
+    font-size: 20px;
+    color: #fff;
+}
+.fa {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+  
+    text-rendering: auto;
+  
+}
+.fa-whatsapp:before {
+    content: "\f232";
+}
+.fa-skype:before {
+    content: "\f17e";
+}
+.footer-bar {
+    border-top: 1px solid rgba(255,255,255,.1);
+    padding-top: 20px;
+    margin-top: 30px;
+}
+.text-center {
+    text-align: center;
+}
+.footer-bar p {
+    font-size: 15px;
+}
+
+.data-box-grid h4, .data-box-grid p, .footer-bar p {
+    color: #fff;
+    font-weight: 400;
+}
+.footer-bar span {
+    color: #2453b6;
+    font-size: 15px;
+    font-weight: 400;
+}
+.footer-bar span a {
+    color: #fff;
+}
+
+@media screen and (max-width: 991px){
+footer {
+    text-align: center;
+}
+}
+
+@media (max-width: 767px){
+footer {
+    padding: 20px 0;
+}
+}
+
+@media (min-width:280px) and (max-width:768px) {
+    .inline-list{
+        display: flex;
+        flex-direction: row;
+        justify-content: center !important;
+        width: 100% !important;
+        align-items: center;
+        margin-top: 1rem;
+        /* margin-left: 2rem; */
+    }
+    .social_links{
+        display: flex;
+        justify-content: center;
+        margin-top: 2rem;
+    }
+    
+    
+}

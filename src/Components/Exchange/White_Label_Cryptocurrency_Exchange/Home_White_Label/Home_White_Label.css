@@ -1,0 +1,113 @@
+
+
+.swiper_slide_Home_White_Label{
+    border-bottom: 3px solid #2453b6;
+    background-position: 70% 13%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+    background-image: url('../../../../Assets/Exchange/White_Label/crypto-software-banner.jpg');
+    padding-top: 240px !important;
+    padding-bottom: 200px;
+    position: relative;
+    height: auto;
+}
+
+.top_margin_here{
+    margin-top: 5rem !important;
+}
+
+.im_size_here{
+    width: 70px !important;
+}
+
+
+
+.feature-list {
+    padding: 20px;
+    margin-top: 20px;
+    border-bottom: 4px solid;
+    min-height: 400px;
+    box-shadow: 0px 0px 5px rgb(51 51 51 / 20%);
+    background: #fff;
+}
+
+.feature-list h4 {
+    /* color: #2453b6; */
+    padding-bottom: 10px;
+}
+.feature-list ul li:before {
+    content: "*";
+    position: absolute;
+    width: 7px;
+    height: 7px;
+    /* background: #2453b6; */
+    left: 2px;
+    top: 3px;
+    border-radius: 100%;
+    color: #2453b6;
+    font-size: 18px;
+}
+.feature-list ul li {
+    /* color: #222; */
+    font-size: 16px;
+    margin: 7px 0px;
+    padding-left: 20px;
+    position: relative;
+    font-weight: 400;
+    text-align:  left !important;
+}
+
+
+
+
+@media only screen and (max-width: 767px){
+ul.expert-whitelabel-list li {
+    width: 48%;
+}
+ul.expert-whitelabel-list li {
+    border: none;
+}
+.expert-whitelabel-list li .icon {
+    margin: 30px auto 20px auto;
+}
+.newclas_witdth{
+    width: 100%;
+}
+}
+
+
+
+
+
+
+.module{background:#2453b6; padding: 0px; position: relative;}
+.module h4{color: #fff; margin-bottom: 10px;}
+.module ul li{color: #fff; padding-left: 20px;}
+.module ul li:before {
+content: "";
+border-color: transparent #fff;
+border-style: solid;
+border-width: 0.35em 0 0.35em 0.45em;
+display: block;
+height: 0;
+width: 0;
+left: -1.2em;
+top: 15px;
+position: relative;}
+.module ul{ padding-right: 20px;}
+.module .number{font-size: 30px;
+font-weight: 500;
+color: #fff;
+width: 58px;
+height: 56px;
+background: #0b9eda;
+display: flex;
+justify-content: center;
+align-items: center;
+margin-top: -8px;
+margin-bottom: 20px;}
+
+.equalize>div{border-right: 1px solid #fff; padding-bottom: 40px;}
+.container-center {display: flex; flex-wrap: wrap; position: relative; z-index: 1; }
+.equalize {display: flex; }

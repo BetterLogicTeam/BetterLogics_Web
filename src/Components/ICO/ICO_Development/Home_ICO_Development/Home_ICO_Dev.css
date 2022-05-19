@@ -1,0 +1,80 @@
+
+
+
+.swiper_slide_ICO{
+    background-image: url('../../../../Assets/ICO/ICO_Development/token-development.jpg');
+    height: auto;
+    padding-top: 180px !important;
+    padding-bottom: 40px;
+    position: relative;
+    background-size: cover;
+}
+
+.bann_fomr {
+    background: #2453b663;
+    padding: 20px 15px;
+    border-radius: 10px;
+    position: relative;
+}
+.bann_fomr .contact-form {
+    max-width: 100%;
+    padding: 0;
+    margin: 0 auto;
+}
+.bann_fomr h4 {
+    color: #fff;
+    text-align: center;
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+.contact-form input {
+    border-radius: 5px;
+    border: 1px solid #f6f7f8;
+    margin: 10px 0;
+    background-color: #fff;
+    color: black !important;
+    font-size: 15px !important;
+
+}
+.contact-form textarea {
+    border-radius: 5px;
+    border: 1px solid #f6f7f8;
+    margin: 10px 0 5px;
+
+    overflow: hidden;
+
+    color: black !important;
+    font-size: 15px !important;
+    background-color: #fff;
+
+}
+
+.Icon_Home_Text{
+    width: 100% !important;
+}
+
+.services-txt121 p{
+    color: #000 !important;
+}
+
+.newBoxhereh{
+    height: 220px !important;
+}
+.imghereicon{
+    margin-top: -6rem;
+}
+
+@media screen and (max-width:768px) {
+    .imghereicon{
+        margin-top: 12rem;
+    }
+}
+
+
+
+
+
+
+
+
+

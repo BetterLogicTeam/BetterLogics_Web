@@ -1,0 +1,67 @@
+ 
+ .Home_BlockChain_Dev{
+    background-image: url('../../../../Assets/BLockChain/Blockchain_Development/blockchain.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    height: auto;
+    padding-top: 250px !important;
+    padding-bottom: 150px;
+    position: relative;
+    background-size: cover;
+ }
+
+ .blockchain-busi {
+    min-height: 500px;
+}
+
+.team-member {
+    border: 1px solid #ececec;
+    border-radius: 5px;
+    box-shadow: 0 10px 30px 0 rgb(50 50 50 / 16%);
+    margin: 20px 0;
+    -webkit-transition-duration: .3s;
+    transition-duration: .3s;
+}
+.busi-img {
+    height: 250px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.team-member-text {
+    text-align: center;
+    padding: 70px 20px;
+    background-color: #fff;
+}
+.bg-img1{
+    background-image: url('../../../../Assets/BLockChain/Blockchain_Development/health.jpg');
+
+}
+.bg-img2{
+    background-image: url('../../../../Assets/BLockChain/Blockchain_Development/banking.jpeg') !important;
+
+}
+.bg-img3{
+    background-image: url('../../../../Assets/BLockChain/Blockchain_Development/insurance.jpg') !important;
+
+}
+.bg-img4{
+    background-image: url('../../../../Assets/BLockChain/Blockchain_Development/retail.jpg') !important;
+
+}
+.bg-img5{
+    background-image: url('../../../../Assets/BLockChain/Blockchain_Development/government.jpg') !important;
+
+}
+.bg-img7{
+    background-image: url('../../../../Assets/BLockChain/Blockchain_Development/automotive.jpg') !important;
+
+}
+.bg-img8{
+    background-image: url('../../../../Assets/BLockChain/Blockchain_Development/transport.jpg') !important;
+
+}
+.bg-img9{
+    background-image: url('../../../../Assets/BLockChain/Blockchain_Development/media.jpg') !important;
+
+}

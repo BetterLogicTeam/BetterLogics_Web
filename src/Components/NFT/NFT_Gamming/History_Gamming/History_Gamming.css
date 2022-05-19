@@ -1,0 +1,176 @@
+
+
+.main-timeline2 .timeline2 {
+    width: 80%;
+    padding: 0 0 0 50px;
+    margin: 0 0 30px;
+    float: left;
+}
+.main-timeline2 .timeline2-content {
+    color: #555;
+    background-color: #fff;
+    border-radius: 30px;
+    display: block;
+    position: relative;
+}
+
+.main-timeline2 .timeline2-content:before {
+    content: '';
+    background: linear-gradient(
+45deg,#2453b6,#2453b6);
+    height: 120px;
+    width: 120px;
+    border-radius: 50% 0 50% 50%;
+    transform: translateY(-50%) rotate(
+45deg);
+    position: absolute;
+    left: -40px;
+    top: 50%;
+    bottom: -10px;
+    z-index: 1;
+}
+
+.main-timeline2 .timeline2-icon {
+    color: #fff;
+    background: linear-gradient(
+105deg,#2453b6,#2453b6);
+    font-size: 45px;
+    text-align: center;
+    line-height: 100px;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    box-shadow: 0 0 0 8px #fff inset, 0 0 5px #333;
+    transform: translateY(-50%);
+    position: absolute;
+    top: 50%;
+    left: -30px;
+    z-index: 1;
+}
+
+.iconhistory {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+.main-timeline2 .inner-content {
+    background-color: #ffffff;
+    padding: 15px 30px 15px 130px;
+    border-radius: 30px;
+}
+.main-timeline2 .title {
+    color: #333333;
+    font-size: 20px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    text-transform: capitalize;
+    margin: 0 0 10px;
+    text-align: left;
+}
+.main-timeline2 .textherehistory {
+    color: #555;
+    font-size: 14px;
+    letter-spacing: 1px;
+    margin: 0;
+    text-align: left;
+}
+
+.main-timeline2 .timeline2:nth-child(even) {
+    padding: 0 50px 0 0;
+    margin: 0 0 30px;
+    float: right;
+}
+
+.main-timeline2 .timeline2 {
+    width: 80%;
+    padding: 0 0 0 50px;
+    margin: 0 0 30px;
+    float: left;
+}
+
+.main-timeline2 .timeline2:nth-child(even) .timeline2-content:before {
+    transform: translateY(-50%) rotate(
+225deg);
+    left: auto;
+    right: -40px;
+}
+.main-timeline2 .timeline2:nth-child(even) .timeline2-icon {
+    left: auto;
+    right: -30px;
+}
+
+.main-timeline2 .timeline2:nth-child(even) .inner-content {
+    padding: 15px 130px 15px 30px;
+}
+
+@media screen and (max-width: 767px){
+.main-timeline2 .timeline2, .main-timeline2 .timeline2:nth-child(even) {
+    width: 100%;
+    padding: 60px 0 0 0;
+    float: none;
+}
+.main-timeline2 .timeline2-icon, .main-timeline2 .timeline2:nth-child(even) .timeline2-icon {
+    transform: translateY(0) translateX(-50%);
+    left: 50%;
+    top: -40px;
+}
+
+.main-timeline2 .inner-content, .main-timeline2 .timeline2:nth-child(even) .inner-content {
+    text-align: center;
+    padding: 115px 20px 20px;
+}
+.main-timeline2 .timeline2-content:before, .main-timeline2 .timeline2:nth-child(even) .timeline2-content:before {
+    transform: translateY(0) translateX(-50%) rotate(
+135deg);
+    left: 50%;
+    top: -50px;
+}
+}
+
+
+
+        /* {---------------------User Benefits on NFT Gaming Platform Development------------} */
+
+
+
+        .car_cardhistory {
+            border-radius: 8px;
+            background-color: transparent;
+            position: relative;
+            display: inline-block;
+            box-shadow: 0 2px 2px rgb(204 197 185 / 0%);
+        }
+
+        .column2.centered2.blurb2 {
+            border-radius: 5px;
+            min-height: 351px;
+            margin-top: 25px;
+            padding: 10px;
+            background-color: #fff;
+            /* -webkit-box-shadow: 2px 2px 20px 0 rgb(50 50 50 / 21%); */
+            -moz-box-shadow: 2px 2px 20px 0 rgba(50,50,50,.21);
+            box-shadow: 2px 2px 20px 0 rgb(50 50 50 / 21%);
+            width: 95% !important;
+        }
+
+        .iconheebggg {
+            max-width: 100% !important;
+            height: auto;
+            -webkit-transition-duration: .3s;
+            transition-duration: .3s;
+        }
+
+
+    
+    .column2:hover .icon-container {
+        background: #2453b6;
+        /* transition: .2s all ease-in-out; */
+    }
+    .column2:hover img {
+        filter: brightness(0) invert(1);
+        /* transition: .2s all ease-in-out; */
+    }
+    

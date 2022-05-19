@@ -1,0 +1,17 @@
+
+
+.swiper_slide_Tron_Smart{
+    height: auto;
+    padding-top: 220px !important;
+    padding-bottom: 50px;
+    background-position: center top;
+    background-image: url('../../../../Assets/MLM_Clone/Tron_Smart_Contact/banner-pg.jpg');
+    position: relative;
+    
+    background-position: center;
+    background-size: cover;
+}
+
+.iconbghereTron{
+    background-color: #fff !important;
+}

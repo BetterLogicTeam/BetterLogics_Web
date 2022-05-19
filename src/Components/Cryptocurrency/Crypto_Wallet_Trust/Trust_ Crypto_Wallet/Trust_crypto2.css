@@ -1,0 +1,122 @@
+
+
+
+
+
+
+
+.main-timeline121 {
+    font-family: 'Roboto', sans-serif;
+    position: relative;
+    z-index: 1;
+}
+.main-timeline121 .timeline1213 {
+    width: 50%;
+    min-height: 152px;
+    padding: 15px 0;
+    margin: 0 10px 30px 0;
+    box-shadow: 6px 0 4px -5px #555;
+    float: left;
+}
+.main-timeline121 .timeline1-content1213 {
+    color: #555;
+    background-color: #fff;
+    text-align: center;
+    padding: 10px 0 35px;
+    display: block;
+    position: relative;
+    cursor: auto;
+    pointer-events: none;
+    text-decoration: none;
+}
+.main-timeline121 .timeline1-icon1213 {
+    color: #fff;
+    font-size: 28px;
+    transform: translateY(-50%);
+    position: absolute;
+    top: 50%;
+    right: -40px;
+    z-index: 1;
+}
+.main-timeline121 .description1213 {
+    color: #333;
+    background-color: #f4f4f4;
+    font-size: 17px;
+    letter-spacing: 1px;
+    padding: 10px 15px;
+    margin: 0;
+    text-decoration: none !important;
+}
+.main-timeline121 .timeline1213:nth-child(even) {
+    float: right;
+    margin: 0 0 30px 10px;
+    box-shadow: -6px 0 4px -5px #555;
+}
+.main-timeline121 .timeline1213:nth-child(4n+2) .timeline1-content1213:before {
+    background-color: #2453b6;
+}
+
+.main-timeline121 .timeline1213:nth-child(even) .timeline1-content1213:before {
+    right: auto;
+    left: -55px;
+}
+.main-timeline121 .timeline1213:nth-child(even) .timeline1-icon1213 {
+    right: auto;
+    left: -39px;
+}
+
+.main-timeline121 .timeline1-content1213:before {
+    content: '';
+    background: #2453b6;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    box-shadow: 0 0 0 25px #fff, 0 0 40px #555;
+    transform: translateY(-50%);
+    position: absolute;
+    right: -55px;
+    top: 50%;
+    z-index: -1;
+}
+.main-timeline121 .timeline1-icon1213 {
+    color: #fff;
+    font-size: 28px;
+    transform: translateY(-50%);
+    position: absolute;
+    top: 50%;
+    right: -40px;
+    z-index: 1;
+}
+
+@media screen and (max-width: 767px){
+.main-timeline121 .timeline1-icon1213 {
+    transform: translateY(0) translateX(50%);
+    top: -42px;
+    right: 50%;
+}
+.main-timeline121 .timeline1213, .main-timeline121 .timeline1213:nth-child(even) {
+    width: 100%;
+    padding: 0;
+    margin: 60px 0 50px;
+    box-shadow: 0 -6px 4px -5px #555;
+}
+.main-timeline121 .timeline1-content1213:before {
+    transform: translateY(0) translateX(50%);
+    top: -50px;
+    right: 50%;
+}
+.main-timeline121 .timeline1213:nth-child(even) .timeline1-content1213:before {
+    transform: translateY(0) translateX(-50%);
+    left: 50% !important;
+}
+.main-timeline121 .timeline1213:nth-child(even) .timeline1-icon1213 {
+    transform: translateY(0) translateX(-50%);
+    left: 50%;
+}
+
+}
+
+.NewClassTrust{
+
+    color: #97afd5 !important;
+}

@@ -1,0 +1,47 @@
+
+
+.benefitSec{
+    margin-top: -3rem;
+}
+
+.feature-flex-square0101 {
+    text-align: left;
+    margin: 0;
+    position: relative;
+    padding-left: 80px;
+    border-radius: 5px;
+}
+.benefitSec .feature-flex-square-icon0101 {
+    float: none;
+    width: 75px;
+    position: absolute;
+    left: 0;
+    background: #eee;
+    height: 75px;
+    line-height: 75px;
+    border-radius: 50%;
+    text-align: center;
+    margin-top: 5px;
+}
+
+.benefitSec .feature-flex-square-icon0101 .ser-img {
+    height: 45px;
+    margin-top: 0px;
+}
+
+.benefitSec .number-box-line {
+    display: none;
+}
+
+.number-box-line {
+    border-bottom: 1px dashed #dedede;
+    width: 100%;
+    margin: 20px auto;
+}
+.benefitSec .feature-flex-square-content {
+    width: auto;
+    padding-left: 0;
+    text-align: left;
+    float: left;
+    padding: 15px;
+}

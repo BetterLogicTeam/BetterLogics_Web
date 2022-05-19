@@ -1,0 +1,136 @@
+.main-timeline1 .timeline1 {
+    width: 50%;
+    padding: 20px 0 0;
+    margin: 0 0 20px 5px;
+    float: right;
+    text-decoration:  none !important;
+
+}
+.text_color{
+    font-size: 14px;
+    color: #97afd5 !important;
+    line-height: 1.7;
+    margin-bottom: 15px;
+    text-align: center;
+    text-decoration:  none !important;
+
+}
+
+.main-timeline1 .timeline1-content121 {
+    color: #000;
+    min-height: 125px;
+    padding: 0 20px 20px 85px;
+    display: block;
+    position: relative;
+    z-index: 1;
+    text-align: left;
+    text-decoration:  none !important;
+}
+
+ .timeline1-icon {
+    color: #fff;
+    /* font-size: 40px; */
+    text-align: center;
+    line-height: 91px;
+    height: 100px;
+    width: 100px;
+    box-shadow: 0 0 5px #d1d1d1 inset, 0 0 5px #d1d1d1;
+    border-radius: 10px;
+    transform: rotate(45deg);
+    position: absolute;
+    left: -50px;
+    top: 0;
+    background: #2453b6;
+}
+
+ .timeline1-icon:before {
+    content: '';
+    background-color: #ececec;
+    height: 80%;
+    width: 80%;
+    border-radius: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    position: absolute;
+    left: 50%;
+    top: 50%;
+}
+
+.main-timeline1 .timeline1-icon i {
+    transform: rotate(-45deg);
+}
+
+.timeline1-icon img {
+    width: 60px;
+    height: auto;
+    margin-left: -10px;
+    margin-top: 15px;
+}
+
+.main-timeline1 .timeline1:nth-child(even) {
+    margin: 0 5px 20px 0;
+    float: left;
+}
+
+.main-timeline1 .timeline1 {
+    width: 50%;
+    padding: 20px 0 0;
+
+}
+
+.main-timeline1 .timeline1:nth-child(even) .timeline1-icon {
+    left: auto;
+    right: -50px;
+}
+
+.main-timeline1 .timeline1:nth-child(even) .timeline1-content121 {
+    padding: 0 85px 20px 20px;
+}
+
+@media screen and (max-width:480px) {
+
+    .main-timeline1 .timeline1 {
+        width: 100%;
+        padding: 20px 0 0;
+
+    }
+    .text_color{
+        font-size: 14px;
+        color: #97afd5 !important;
+        line-height: 1.7;
+        margin-bottom: 15px;
+        text-align: left;
+        text-decoration:  none !important;
+    
+    }
+
+    
+    .main-timeline1 .timeline1-icon {
+       
+        position: relative;
+        left: auto;
+        top: 0;
+        
+        
+    }
+    .main-timeline1 .timeline1-content121 {
+        color: #000;
+        min-height: 125px;
+        padding: 0 0px 20px 20px;
+        display: block;
+        position: relative;
+        z-index: 1;
+        text-align: left;
+        width: 100% !important;
+    }
+    .main-timeline1 .timeline1:nth-child(even) .timeline1-icon {
+        left: auto;
+        right: auto;
+       
+    }
+    .main-timeline1 .timeline1:nth-child(even) .timeline1-content121 {
+        padding: 0 0px 20px 20px;
+    }
+
+    
+
+}

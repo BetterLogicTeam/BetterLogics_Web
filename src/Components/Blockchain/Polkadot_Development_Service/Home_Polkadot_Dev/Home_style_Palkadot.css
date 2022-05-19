@@ -1,0 +1,16 @@
+
+
+.Home_Polkadot12{
+    background-image: url('../../../../Assets/BLockChain/Polkadot/1.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    height: auto;
+    padding-top: 250px !important;
+    padding-bottom: 150px;
+    position: relative;
+    background-size: cover;
+}
+
+.to_magagga{
+    margin-top: 2rem !important;
+}

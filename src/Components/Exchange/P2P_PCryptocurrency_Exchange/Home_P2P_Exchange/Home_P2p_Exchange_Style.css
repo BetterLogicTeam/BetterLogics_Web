@@ -1,0 +1,19 @@
+
+
+.swiper_slide_Home_P2p_Exchange{
+    background-image: url('../../../../Assets/Exchange/P2p_Exchange/banner.jpg');
+    border-bottom: 3px solid #2453b6;
+    background-position: 70% 13%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+   
+    padding-top: 240px !important;
+    padding-bottom: 160px;
+    position: relative;
+    height: auto;
+}
+.mthereimghh{
+    margin-top: 1rem !important;
+}

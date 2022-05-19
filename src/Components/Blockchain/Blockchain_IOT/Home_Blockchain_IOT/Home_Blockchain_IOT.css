@@ -1,0 +1,12 @@
+
+
+.Home_Blockchain_IOT{
+    border-bottom: 3px solid #2453b6;
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 250px !important;
+    padding-bottom: 170px;
+    position: relative;
+    background-image: url('../../../../Assets/BLockChain/Blockchain_IOT/blockchain-iot.jpg');
+}

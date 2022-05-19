@@ -1,0 +1,231 @@
+
+
+
+.OpenseaScript_Text p{
+    color: #97afd5 !important;
+    text-align: left;
+
+}
+
+
+
+/* ------------------------------------------------- */
+
+
+
+
+.serviceBox2 {
+    background-color: #f2f2f2;
+    text-align: center;
+    padding: 20px;
+    border-radius: 0 40px;
+    margin: 20px 0px;
+    min-height: 330px;
+}
+
+.serviceBox2 .service-icon {
+    color: #fff;
+    background: linear-gradient(45deg, transparent, #2753b6, transparent);
+    font-size: 50px;
+    line-height: 110px;
+    width: 110px;
+    height: 110px;
+    margin: 0 auto 30px;
+    border-radius: 50px 0;
+    position: relative;
+    z-index: 1;
+    border: 3px solid #2753b6;
+}
+
+.serviceBox2 .service-icon:before {
+    content: '';
+    border-radius: 50%;
+    position: absolute;
+    left: 10px;
+    bottom: 10px;
+    top: 10px;
+    right: 10px;
+    z-index: -1;
+}
+
+.serviceBox2 .title2 {
+    color: #000;
+    font-size: 20px;
+    font-weight: 600;
+    text-transform: capitalize;
+    margin: 0 0 7px;
+}
+
+.serviceBox2 .description2 {
+    font-size: 13px;
+    line-height: 22px;
+    letter-spacing: 0.5px;
+}
+
+@media only screen and (max-width: 990px) {
+    .serviceBox {
+        margin: 0 0 30px;
+    }
+}
+
+
+
+
+/* --------------------------------------------------------------- */
+
+
+.nftmarket {
+    padding: 90px 0;
+}
+
+.timeline-center::before {
+    background: #ffffff !important;
+    
+    
+}
+
+.timeline-center::before {
+    background: #f2f2f2;
+    position: absolute;
+    top: auto;
+    left: 50%;
+    height: 70%;
+    width: 2px;
+    background: #47b475;
+    
+}
+
+.timeline-center::before,
+.timeline-right::before,
+.timeline::before {
+    content: '';
+}
+
+.timeline-center .timeline-row2:nth-of-type(odd) {
+    position: relative;
+    text-align: right;
+    width: 50%;
+}
+
+.timeline-center .timeline-row2:nth-of-type(even) {
+    position: relative;
+    text-align: left;
+    width: 50%;
+    margin-left: 50%;
+}
+
+.timeline-center .timeline-row2:nth-of-type(even) .tm-detail {
+    margin-left: 40px;
+    margin-bottom: 40px;
+    color: #5f5f5f;
+    font-size: 12px;
+    line-height: 20px;
+    border-radius: 10px;
+    background: #ffffff;
+    padding: 20px;
+}
+
+.timeline-center .timeline-row2:nth-of-type(odd) .tm-detail {
+    margin-right: 40px;
+    margin-bottom: 40px;
+    border-radius: 10px;
+    color: #5f5f5f;
+    font-size: 12px;
+    line-height: 20px;
+    background: #ffffff;
+    padding: 20px;
+}
+
+.timeline-center .timeline-row2:nth-of-type(even) .tm-icon {
+    left: -30px;
+}
+
+.timeline-center .tm-icon {
+    width: 60px;
+    height: 60px;
+    text-align: center;
+    position: absolute;
+    top: 0;
+}
+
+.timeline .tm-icon,
+.timeline-center .tm-icon,
+.timeline-right .tm-icon {
+    background-color: #fff;
+    border-radius: 10%;
+    box-shadow: 0 0 10px 0 rgb(36 83 182 / 80%);
+}
+
+.timeline-center .tm-icon span {
+    color: #47b475;
+    font-size: 30px;
+    line-height: 60px;
+    padding: 1px;
+}
+
+.timeline-center .timeline-row2:nth-of-type(odd) .tm-icon {
+    right: -30px;
+}
+
+.tm-detail h2 {
+    font-weight: 600;
+    font-size: 28px;
+}
+
+@media (max-width: 767px) {
+    .timeline-center .timeline-row2:nth-of-type(odd) .tm-detail,
+    .timeline-center .timeline-row2:nth-of-type(even) .tm-detail {
+        margin-right: 0;
+        margin-left: 0;
+        margin-bottom: 10px;
+        box-shadow: 0 0 9px 1px rgb(0 0 0 / 15%);
+    }
+    .timeline-center .timeline-row2:nth-of-type(odd) .tm-icon,
+    .timeline-center .timeline-row2:nth-of-type(even) .tm-icon {
+        position: relative;
+        margin: 20px auto;
+        right: auto;
+        left: auto;
+    }
+    .timeline-center .timeline-row2:nth-of-type(odd),
+    .timeline-center .timeline-row2:nth-of-type(even) {
+        width: 100%;
+        text-align: left;
+        margin-left: 0;
+        display: flex;
+        flex-direction: column-reverse;
+    }
+    .timeline-center::before {
+        background: #f2f2f2;
+        position: absolute;
+        top: 18%;
+        left: 50%;
+        height: 53%;
+        width: 2px;
+        background: #47b475;
+    }
+}
+
+
+
+
+.limtophere{
+    margin-top: -1rem;
+}
+
+.scriptimhopen_sea{
+    margin-top: 0rem !important;
+}
+
+
+
+
+
+
+
+@media screen  and (max-width:768px) {
+    .openseaheading_Script{
+        text-align: center !important;
+    }
+    
+}

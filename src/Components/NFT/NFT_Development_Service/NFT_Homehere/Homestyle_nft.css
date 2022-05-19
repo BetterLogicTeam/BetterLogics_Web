@@ -1,0 +1,215 @@
+
+
+.swiper-slideNFT {
+    height: auto;
+    padding-top: 240px !important;
+    padding-bottom: 140px;
+    width: 100% !important;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-image: url('../../../../Assets/NFT/1.jpg');
+}
+
+
+
+.banner-blockNFT {
+    position: relative;
+}
+.swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: transparent;
+    background-position: center;
+    background-size: cover;
+    /* display: -webkit-box; */
+    display: -ms-flexbox;
+    /* display: -webkit-flex; */
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    /* -webkit-justify-content: center; */
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    /* -webkit-align-items: center; */
+    align-items: center;
+}
+.swiper-slideNFT {
+    
+    /* flex-shrink: 0; */
+    width: 100%;
+    /* height: 85vh; */
+  
+
+ 
+}
+.sec-overlayNFT {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(0,0,0,.8);
+}
+
+.banner_tit {
+    /* font-size: 50px; */
+    color: #fff;
+    line-height: 1.4;
+    font-weight: 600;
+    font-family: 'Fira Sans',sans-serif;
+}
+.slider-content{
+    /* margin-top: 0.001rem; */
+}
+.slider-content h1 {
+    margin-bottom: 40px;
+    margin-top: 10px;
+    font-size: 38px;
+}
+
+.banner_tit h1 {
+    display: inline;
+}
+.slider-content h2, .slider-content h1 {
+    /* font-size: 50px; */
+    color: #fff;
+    line-height: 1.4;
+    font-weight: 600;
+}
+.slider-content p {
+    max-width: 900px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.slider-content p {
+    margin-bottom: 50px !important;
+    font-size: 20px;
+}
+.slider-content p {
+    color: #fff;
+    /* font-size: 16px; */
+}
+.slider-content p {
+    /* font-size: 15px; */
+    /* color: rgba(255,255,255,.7); */
+    line-height: 1.9;
+    font-weight: 400;
+    /* max-width: 100%; */
+    margin-top: 10px;
+    word-wrap: break-word;
+}
+
+
+/* -----------------------------------------NFT Developmet----------------------------------- */
+
+
+.section-heading {
+    margin-bottom: 10px;
+}
+
+.text-center {
+    text-align: center;
+}
+.section-heading h2, .section-heading h3 {
+    font-size: 27px;
+    color: #fff;
+    line-height: 1.4;
+    font-weight: 600;
+}
+
+.section-heading h2 {
+    margin-bottom: 10px;
+}
+.slider-content p {
+    color: #fff;
+    line-height: 1.9;
+    font-weight: 400;
+    max-width: 100%;
+  
+    word-wrap: break-word;
+    width: 80%;
+    margin: 0px auto;
+    padding: 20px 0px;
+    font-size: 16px;
+    position: relative;
+
+}
+
+.intro_cnt {
+    clear: both;
+}
+
+.mt-40 {
+    margin-top: 2rem;
+}
+.intro_cnt p{
+    font-size: 14px;
+    color: #97afd5;
+    line-height: 1.7;
+    margin-bottom: 15px;
+    text-align: left;
+}
+.carousel-inner>.item>a>img, .carousel-inner>.item>img, .img-responsive, .thumbnail a>img, .thumbnail>img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+@media screen and (min-width: 1008px){
+
+
+}
+.innovation {
+    margin-top: 80px;
+}
+
+
+@media (min-width:280px) and (max-width:480px) {
+    .swiper-slideNFT {
+        height: auto;
+      
+     
+    }
+    .intro_cnt p{
+       
+        text-align: justify;
+        hyphens: auto;
+        
+    }
+    .button-md {
+        padding: 13px 5%;
+    }
+    .banner_tit {
+        /* font-size: 50px; */
+        margin-top: -5rem;
+    }
+    .btnnfthere{
+        display: flex;
+        flex-direction: column;
+    }
+    .btnnftbuttonheree{
+        margin-top: 1rem;
+    }
+    
+    
+}
+@media only screen and (max-width: 767px){
+.slider-content h1 {
+    margin-bottom: 20px;
+    margin-top: 0;
+    font-size: 30px;
+}
+.slider-content p {
+    margin-bottom: 30px !important;
+    font-size: 17px;
+}
+}
+
+
+
+/* {--------------------------------NFT Expolar----------------} */
+.section-block.cta_wrapper {
+    background: #193164 !important;
+}

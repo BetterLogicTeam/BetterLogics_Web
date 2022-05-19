@@ -1,0 +1,44 @@
+
+
+
+
+
+
+.mt_check_here{
+    /* margin-top: -4rem; */
+}
+
+
+.Life_Descrition p{
+    color: #97afd5;
+    font-size: 14px;
+
+}
+.Life_Descrition p a{
+    color: #f42f54;
+
+}
+
+.PsectionNFT a{
+    color: #f42f54;
+
+
+}
+
+@media screen and (max-width:480px) {
+
+    .whatsaapherebg{
+        width: 100% !important;
+    }
+    
+}
+
+
+
+@media screen and (max-width:800px) {
+
+    .mt_check_here{
+        margin-top: 10rem;
+    }
+
+}

@@ -1,0 +1,30 @@
+
+
+.Heading_Befih h4{
+    font-family: 'Fira Sans',sans-serif;
+    color: #fff;
+    line-height: 1.3;
+    margin: 0;
+}
+.Heading_Befih p{
+    font-weight: 400;
+    font-size: 15px!important;
+    line-height: 1.7;
+    margin-bottom: 0;
+    color: #97afd5;
+
+}
+
+.text_semi_second{
+    font-weight: 400;
+    font-size: 14px!important;
+    line-height: 1.7;
+    margin-bottom: 0;
+    color: #97afd5 !important;
+
+}
+
+.Semi_Imgherecheck{
+    margin-top: 4rem !important;
+    height: 70% !important;
+}

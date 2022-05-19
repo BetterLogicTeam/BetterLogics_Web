@@ -1,0 +1,45 @@
+
+
+.Home_Hybrid_crypto_Exchange{
+   
+        height: auto;
+        padding-top: 220px !important;
+        padding-bottom: 90px;
+        /* height: 635px; */
+        position: relative;
+        background: #193dc0;
+    
+}
+
+
+/* .Home_Hybrid_crypto_Exchange::before {
+    background-color: rgba(8, 22, 139, 0.3);
+    border-radius: 100%;
+    content: "";
+    height: 968px;
+    left: -160px;
+    opacity: 1;
+    position: absolute;
+    right: 0;
+    top: -165px;
+    transform: skew(-1deg);
+
+    z-index: 0;
+}
+
+.Home_Hybrid_crypto_Exchange::before {
+    width: 65%;
+    height: 100%;
+} */
+
+.banner-img454{
+    position: relative;
+    padding-top: 50px;
+}
+
+.call-to-action{
+    background: #2453b6 !important;
+    text-align: center;
+    color: #fff;
+    position: relative;
+}

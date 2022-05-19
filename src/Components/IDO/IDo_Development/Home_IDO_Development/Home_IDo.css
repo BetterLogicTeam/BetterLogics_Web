@@ -1,0 +1,44 @@
+
+.swiper_slide_IDO_Development{
+    height: auto;
+    padding-top: 280px !important;
+    padding-bottom: 200px;
+    background-position: center top;
+    background-image: url('../../../../Assets/IDO/IDO_Development/2.jpg');
+    position: relative;
+}
+.text-left754 p{
+    text-align: left !important;
+}
+
+
+.mt_imghghg{
+    margin-top: 5rem !important;
+}
+
+
+section.table {
+    text-align: center;
+    padding: 5% 0%;
+    overflow-x: scroll;
+}
+.table table {
+    background-color: #cb82b842;
+}
+section.table th {
+    font-size: 17px;
+}
+
+section.table th {
+   padding: 10px;
+    text-align: center;
+    border: 1px solid;
+    background: #193164;
+    color: #fff;
+}
+section.table td {
+    padding: 10px;
+    border: 1px solid;
+    background: #f7f7f7;
+    text-align: center;
+}

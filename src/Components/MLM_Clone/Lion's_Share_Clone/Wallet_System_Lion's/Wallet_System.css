@@ -1,0 +1,71 @@
+
+
+.processList25 {
+    background: #2453b6;
+    margin-top: 100px;
+    padding: 0% 0% 4%;
+}
+
+.processList25 .feat_box25 {
+    background: no-repeat;
+    box-shadow: none;
+    color: #fff;
+    position: relative;
+    padding-top: 100px;
+    margin-top: -74px;
+    /* margin-bottom: 0px; */
+}
+
+.feat_box25 {
+    text-align: center;
+    background: #fff;
+    padding: 34px 15px 10px;
+    box-shadow: 0 0 10px #ddd;
+    border-radius: 3px;
+    margin-bottom: 2px;
+    min-height: 239px;
+}
+.processList25 .feat_box_ic25 {
+    border: none;
+    background: #e6606a;
+    box-shadow: 0 0 0 6px #fff inset, 0 0 0 3px #2453b6;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    top: 0;
+}
+
+.feat_box_ic25 {
+    width: 80px;
+    height: 80px;
+    margin: 0 auto;
+    /* background: #fff; */
+    border: 1px solid #ddd;
+    border-radius: 50%;
+    line-height: 80px;
+}
+.processList25 .feat_box_ic25 img {
+    filter: brightness(0) invert(1);
+    max-height: 40px;
+    max-width: 40px;
+}
+.processList25 .feat_box_cnt25 h4 {
+    color: #fff;
+}
+.processList25 .feat_box25 p {
+    color: #fff;
+}
+
+@media only screen and (max-width: 767px){
+.processList25 .feat_box25 {
+    margin-top: 0 !important;
+    min-height: auto;
+}
+}
+
+
+
+
+.section-block-bg2{
+    
+}

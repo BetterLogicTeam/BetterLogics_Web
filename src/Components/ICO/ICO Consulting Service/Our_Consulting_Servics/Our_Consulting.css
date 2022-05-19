@@ -1,0 +1,141 @@
+
+
+.consulting-services{
+    position: relative;
+    background: url('../../../../Assets/ICO/ICO_Consulting/5-mistake-ico.jpg');
+}
+
+.section-block-parallax.consulting-services:before {
+    content: "";
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    top: 0px;
+    background: rgb(238 238 238 / 90%);
+}
+.serviceBox654 {
+    margin-bottom: 30PX;
+}
+.serviceBox654 .service-icon654 {
+    color: #fff;
+    background: #fff;
+    font-size: 27px;
+    line-height: 105px;
+    width: 115px;
+    height: 110px;
+    padding: 0 0 20px 0;
+    margin: 0 auto;
+    position: relative;
+    clip-path: polygon(100% 80%, 50% 100%, 0 80%, 0 0, 50% 20%, 100% 0);
+}
+.serviceBox654 .service-icon654:before {
+    content: "";
+    background: linear-gradient(#ffffff, #b5b5b5);
+    position: absolute;
+    top: 11px;
+    left: 8px;
+    right: 8px;
+    bottom: 8px;
+    clip-path: polygon(100% 80%, 50% 100%, 0 80%, 0 0, 50% 20%, 100% 0);
+    z-index: -1;
+}
+.serviceBox654 .service-icon654 i img {
+    width: 51px;
+}
+.service-content654 {
+    background-color: #fff;
+    padding: 60px 22px 40px;
+    margin: -40px 0 -12px;
+    outline: 2px solid #000000 !important;
+    outline-offset: -12px;
+    height: 430px;
+}
+
+.serviceBox654 .title {
+    color: #193dc0;
+    font-size: 19px;
+    font-weight: 600;
+    /* text-transform: uppercase; */
+    margin: 0 0 5px;
+}
+
+.first-col p.description {
+    min-height: 210px;
+}
+
+ .service-content654 p {
+    color: #000 !important;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.5px;
+    margin: 0;
+    position: relative;
+}
+
+.Bottomdivheight{
+    height: 580px;
+}
+.HeadinghereICo h2{
+    color: #000 !important;
+}
+
+@media screen and (max-width:480px) {
+    .Bottomdivheight{
+        height: auto;
+    }
+    .service-content654 {
+        background-color: #fff;
+        padding: 60px 22px 40px;
+        margin: -40px 0 -12px;
+        outline: 2px solid #000000 !important;
+        outline-offset: -12px;
+        height: auto;
+    }
+}
+
+
+
+/* ------------------------------------------------------------------------------ */
+
+
+.proces_step {
+    background: #fff;
+    padding: 10px 10px;
+    /* box-shadow: 0 0 6px #46b677; */
+    border-radius: 2%;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    max-width: 100%;
+    min-height: 320px;
+    box-shadow: 0 16px 56px 0 rgb(0 0 0 / 10%);
+}
+
+.proces_step img {
+    width: 70px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.content1233 {
+    padding: 10px 5px;
+    background-color: #fff;
+    position: relative;
+    border-radius: 6px;
+}
+.content1233 h3{
+    font-size: 17px;
+    font-weight: normal;
+    text-shadow: 0px 0px;
+    margin-bottom: 10px;
+}
+.content1233 p{
+    font-size: 14px;
+    color: #666;
+    line-height: 1.7;
+}
+
+.Marketingico{
+    border-radius: 20px !important;
+    margin-top: -1rem;
+}

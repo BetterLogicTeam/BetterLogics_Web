@@ -1,0 +1,60 @@
+
+
+.ser-img2{
+    max-height: 64px;
+    height: 50vh !important;
+    max-width: 60px;
+}
+
+
+.number-box.sto_numberhere {
+   
+    min-height: 315px;
+  
+}
+
+
+
+
+
+
+
+
+.secondcolhere{
+    margin-top: 1rem !important;
+    box-shadow: 0 20px 40px rgba(255, 255, 255, 0.3);
+}
+
+
+
+
+
+
+
+
+.sto-mark-gen.mobile-image ul li {
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.12)!important;
+    padding: 19px !important;
+    padding-left: 40px !important;
+    background-position: 10px!important;
+    margin-bottom: 0px!important;
+    border: none;
+}
+
+
+
+
+
+
+@media screen and (max-width:768px) {
+    .number-box.sto_numberhere {
+   
+        min-height: auto;
+      
+    }
+
+    .line_non_fungible_center{
+        display: flex;
+        justify-content: center;
+    }
+}

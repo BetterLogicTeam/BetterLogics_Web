@@ -1,0 +1,61 @@
+
+
+
+.swiper-slideGamming{
+    /* border-bottom: 3px solid #2453b6; */
+    /* background-position: 70% 13%; */
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-image: url('../../../../Assets/Gamming/game.png');
+    padding-top: 240px !important;
+    padding-bottom: 160px;
+    height: auto;
+    position: relative;
+
+}
+
+.sec_overlay_Gamming{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgb(0 0 0 / 83%);
+}
+
+
+/* -------------------- */
+
+.Ataghereintext{
+    color: #f42f54 !important;
+}
+
+
+
+
+/* --------------------NFT NFT in Gaming------------------------- */
+
+.shadow-primary {
+    /* -webkit-box-shadow: 0 20px 40px rgb(0 0 0 / 20%); */
+    box-shadow: 0 20px 40px rgb(0 0 0 / 20%);
+    margin-top: 6.5rem !important;
+}
+
+.rounded-border {
+    border-radius: 10px!important;
+}
+
+.textcolorhereGammming p{
+    color: #97afd5;
+
+}
+
+@media screen and (max-width:768px) {
+
+    .shadow-primary {
+       
+        margin-top: -10rem !important;
+    }
+    
+}

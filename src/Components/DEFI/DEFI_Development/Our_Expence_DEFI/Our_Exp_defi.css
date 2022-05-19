@@ -1,0 +1,116 @@
+
+
+.Defi_img_our{
+    width: 70px !important;
+    max-width: 100%;
+    height: auto;
+    /* -webkit-transition-duration: .3s; */
+    transition-duration: .3s;
+}
+
+.Defi_our_Box{
+    text-align: center;
+    padding: 20px;
+    margin: 15px 0;
+    background: #fff;
+    border-radius: 3px;
+    box-shadow: 0 0 10px #d1cbcb;
+    border: 4px solid #fff;
+    padding-bottom: 0;
+    height: 420px;
+}
+
+.Defi_our_Box h4{
+    font-size: 16px !important; 
+}
+.Defi_our_Box p{
+    font-size: 14px;
+    font-weight: 400;
+    margin-top: 15px;
+    line-height: 1.5;
+}
+
+
+
+@media screen and (max-width:480px) {
+
+.Defi_our_Box{
+    height: auto !important;
+}
+
+.section-heading h3{
+    font-size: 25px !important;
+}
+.mt-54{
+    margin-top: 3rem !important;
+}
+
+
+}
+
+/* ---------------------------------------------------------- */
+.feature-flex-square101{
+    text-align: left;
+    margin: 0;
+    position: relative;
+    padding-left: 80px;
+    border-radius: 5px;
+    
+}
+
+.feature-flex-square-icon1101{
+    float: none;
+    width: 75px;
+    position: absolute;
+    left: 0;
+    background: #eee;
+    height: 75px;
+    line-height: 75px;
+    border-radius: 50%;
+    text-align: center;
+}
+
+.feature-flex-square-icon1101 img{
+    height: 45px;
+}
+.box4522{
+    height: 200px !important;
+   
+}
+
+
+@media screen and (max-width:768px) {
+    .box4522{
+        height: auto !important;
+        margin-top: 2rem !important;
+        padding-bottom: 10px !important;
+    }
+    .Our_Defi_img_Here{
+        height: "70%" !important;
+        margin-top: 1rem !important;
+        width: 100% !important;
+    }
+
+}
+
+/* ----------------------------- */
+
+.l_prop_DEFI{
+    color: #fff !important;
+    font-size: 27px !important;
+    line-height: 1.4 !important;
+    font-weight: 600 !important;
+    margin: 0 !important;
+}
+
+/* ------------------------------------------------- */
+
+.Our_Defi_img_Here{
+    height: "70%" !important;
+    margin-top: 1rem !important;
+}
+
+/* -------------------------------------------------- */
+.img_defi_here_T{
+    margin-top: 5rem !important;
+}

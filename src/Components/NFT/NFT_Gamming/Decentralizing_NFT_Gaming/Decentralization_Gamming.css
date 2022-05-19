@@ -1,0 +1,41 @@
+
+
+
+.bgDecentrliztion {
+    background: linear-gradient(
+45deg, black, #0000005e),url('../../../../Assets/Gamming/banner1.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+
+.CardGaminghere{
+    background: #ffffff;
+    border: 4px;
+    box-shadow: 0 2px 5px 0 rgb(0 0 0 / 16%), 0 2px 10px 0 rgb(0 0 0 / 12%);
+    margin-bottom: 30px;
+    border-radius: 7px;
+    position: relative;
+}
+
+.CardGaminghereimg{
+    position: relative;
+    overflow: hidden;
+    border-radius: 0;
+    z-index: 1;
+    /* box-shadow: -1px 5px 13px 4px #0000002e; */
+    border-radius: 7px;
+
+}
+
+
+
+
+.CardGaminghereimg img{
+    width: 100px;
+    height: auto;
+    display: block;
+    margin: 10px auto;
+}
